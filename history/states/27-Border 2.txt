@@ -2,10 +2,10 @@ state={
 	id=27
 	name="STATE_27"
 	state_category = megalopolis
-impassable = yes
+	impassable = yes
 	history={
 		owner = VER
-		}
+	}
 	provinces={
 		103 104 
 	}

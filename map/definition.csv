@@ -45,8 +45,8 @@
 44;234;234;234;sea;false;ocean;1
 45;22;22;22;sea;false;ocean;1
 46;233;233;233;sea;false;ocean;1
-47;86;42;56;land;false;plains;1
-48;128;129;64;land;false;plains;1
+47;86;42;56;land;true;plains;1
+48;128;129;64;land;true;plains;1
 49;184;72;18;land;false;plains;1
 50;170;98;70;land;false;plains;1
 51;196;232;49;land;false;plains;1
@@ -121,7 +121,7 @@
 120;128;172;247;land;false;plains;1
 121;97;35;41;land;false;plains;1
 122;119;181;255;land;false;mountain;1
-123;169;120;17;land;false;plains;1
+123;169;120;17;land;true;plains;1
 124;129;26;3;land;false;plains;1
 125;142;147;232;land;false;mountain;1
 126;128;165;99;land;false;plains;1
@@ -131,7 +131,7 @@
 130;107;6;244;land;false;plains;1
 131;170;201;197;land;false;plains;1
 132;128;0;199;land;false;plains;1
-133;126;24;59;land;false;plains;1
+133;126;24;59;land;true;plains;1
 134;2;204;70;land;false;plains;1
 135;44;42;43;land;false;plains;1
 136;2;123;155;land;false;plains;1
@@ -191,7 +191,7 @@
 190;44;156;183;land;false;plains;1
 191;44;204;28;land;false;mountain;1
 192;94;165;196;land;false;plains;1
-193;127;12;204;land;false;plains;1
+193;127;12;204;land;true;plains;1
 194;185;196;149;land;false;plains;1
 195;183;72;72;land;false;plains;1
 196;201;102;3;land;false;plains;1
@@ -226,7 +226,7 @@
 225;85;210;221;land;false;plains;1
 226;217;107;66;land;false;plains;1
 227;21;227;160;land;false;plains;1
-228;43;39;173;land;false;plains;1
+228;43;39;173;land;true;plains;1
 229;127;63;69;land;false;plains;1
 230;127;129;9;land;false;plains;1
 231;169;18;97;land;false;plains;1
@@ -622,7 +622,7 @@
 621;15;9;244;land;false;plains;1
 622;65;160;108;land;false;plains;1
 623;11;87;201;land;false;plains;1
-624;133;180;9;land;false;plains;1
+624;133;180;9;land;true;plains;1
 625;0;189;185;land;false;plains;1
 626;203;62;50;land;false;plains;1
 627;117;9;19;land;false;plains;1
@@ -632,7 +632,7 @@
 631;84;60;36;land;false;plains;1
 632;226;82;27;land;false;plains;1
 633;160;41;236;land;false;plains;1
-634;168;39;97;land;false;plains;1
+634;168;39;97;land;true;plains;1
 635;126;141;14;land;false;plains;1
 636;109;214;39;land;false;plains;1
 637;126;63;164;land;false;plains;1
