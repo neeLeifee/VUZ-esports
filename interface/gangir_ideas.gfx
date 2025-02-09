@@ -1,0 +1,8 @@
+spriteTypes = {		
+
+	spriteType = {
+		name = "BRI_BONUS"
+		texturefile = "gfx/interface/ideas/idea_generic_democratic_europe.dds"
+	}
+	
+}

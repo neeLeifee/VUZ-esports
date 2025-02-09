@@ -1,0 +1,48 @@
+﻿add_namespace = War
+country_event = {
+	id = War.1
+	title = War.1.t
+	desc = War.1.d
+	picture = GFX_report_event_generic_rally
+	hidden = yes
+	trigger = {
+		tag = BLU
+		date > 1936.12.23
+		date < 1937.12.23 		#15 января 37
+	}
+	mean_time_to_happen = { days = 1 }
+	fire_only_once = yes	
+	option = { 	
+		name = War.1.a
+		ai_chance = { factor = 100 }		
+		declare_war_on = {
+			target = RED
+			type = annex_everything
+		}
+		add_war_support = 0.5		
+	}
+}
+
+add_namespace = War
+country_event = {
+	id = War.2
+	title = War.1.t
+	desc = War.1.d
+	picture = GFX_report_event_generic_rally
+	hidden = yes
+	trigger = {
+		tag = BLU
+		date > 1939.12.23 #15 января 40
+	}
+	mean_time_to_happen = { days = 1 }
+	fire_only_once = yes	
+	option = { 	
+		name = War.1.a
+		ai_chance = { factor = 100 }		
+		declare_war_on = {
+			target = RED
+			type = annex_everything
+		}
+		add_war_support = 0.5		
+	}
+}

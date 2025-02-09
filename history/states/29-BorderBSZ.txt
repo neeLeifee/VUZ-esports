@@ -1,0 +1,10 @@
+state={
+	id=29
+	name="STATE_29"
+	state_category = megalopolis
+	provinces={
+		193 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

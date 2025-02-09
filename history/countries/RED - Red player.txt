@@ -1,0 +1,88 @@
+﻿capital = 2
+
+OOB = "BRD_1936"
+
+set_stability = 0.5
+set_war_support = 0.5
+set_research_slots = 4
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+	gwtank = 1
+	gw_artillery = 1
+	early_fighter = 1
+	early_bomber = 1
+	motorised_infantry = 1
+}
+
+set_politics = {
+	
+	ruling_party = neutrality
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	fascism = 0
+	communism = 0
+	neutrality = 100
+	democratic = 0
+}
+
+set_convoys = 5
+
+create_country_leader = {
+	name = "Red Player"
+	desc = "POLITICS_KING_RED_DESC"
+	picture = "gfx/leaders/RED/Neytral_RED.tga"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Red Player"
+	desc = "POLITICS_KING_RED_DESC"
+	picture = "gfx/leaders/RED/Fashist_RED.tga"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Red Player"
+	desc = "POLITICS_KING_RED_DESC"
+	picture = "gfx/leaders/RED/Demokrat_RED.tga"
+	expire = "1965.1.1"
+	ideology = liberalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Red Player"
+	desc = "POLITICS_KING_RED_DESC"
+	picture = "gfx/leaders/RED/Kommunist_RED.tga"
+	expire = "1965.1.1"
+	ideology = leninism
+	traits = {
+		#
+	}
+}
+
+add_opinion_modifier = {
+							target = BLU
+							modifier = vest
+						}
+
+	add_ideas = {
+		BRI_BONUS
+}
+

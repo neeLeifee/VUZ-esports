@@ -1,0 +1,72 @@
+GER = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+ITA = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+SOV = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+FRA = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+ENG = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+USA = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+JAP = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+MEN = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+MAN = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+CHI = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+PRC = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+GXC = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+YUN = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+SHX = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+TST = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+BLU = {
+	color = rgb {  4 217 255  }
+	color_ui = rgb { 4 217 255 }
+}
+RED = {
+	color = rgb { 255 76 76 }
+	color_ui = rgb { 255 76 76 }
+}
+VER = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 57 113 228 }
+}

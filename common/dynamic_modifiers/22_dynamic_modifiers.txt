@@ -1,0 +1,24 @@
+
+national_focus_modifier = {
+   enable = { always = yes }
+   icon = BRI_BONUS
+   
+   training_time_factor  = national_barracks
+   army_attack_factor = national_attack
+   army_defence_factor = national_defense
+   army_org_factor = national_org
+   army_org_regain = national_org_regain
+   production_speed_buildings_factor = national_production_speed
+   research_speed_factor = national_researches
+   experience_gain_army = national_xp_army
+   fascism_drift = national_one_left
+   conscription = national_conscription
+   communism_drift = national_one_right
+   local_resources_factor = national_recorse
+   democratic_drift = national_two_left
+   production_factory_max_efficiency_factor = national_max_effectiv
+   production_factory_efficiency_gain_factor = national_max_effectiv_speed
+   industrial_capacity_factory = national_production_cap
+   neutrality_drift = national_two_right
+}
+

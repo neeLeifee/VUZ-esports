@@ -1,0 +1,27 @@
+state={
+	id=32
+	name="STATE_32"
+	state_category = megalopolis
+	impassable = yes
+	history={
+		owner = VER
+		victory_points = {
+			108 10
+		}
+	   
+}
+	resources={
+		chromium=40
+		aluminium=60
+		steel=60
+		tungsten=50
+		oil=50
+		rubber=50
+		}
+	provinces={
+		108 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+
+}

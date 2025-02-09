@@ -1,0 +1,37 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			every_country = {
+				set_variable = { peoples_militia_var = 0 }
+				set_variable = { peoples_militia_template_var = 1 }
+				set_variable = { train_peoples_militia_time_var = 30 }
+			}
+			every_country = {
+				limit = {
+					NOT = {
+						original_tag = VER
+						original_tag = SVE
+					}
+				}
+				country_event = { id = Vote.1 }
+			}
+			every_country = {
+				limit = {
+					is_ai = yes
+					NOT = {
+						original_tag = VER
+						original_tag = SVE
+					}
+				}
+				add_ideas = BOT_BONUS 
+			}
+			every_country = { #отключение союзов
+				limit = { 
+					is_faction_leader = yes 
+					has_idea = DTM_effect 
+				} 
+				dismantle_faction = yes
+			}
+		}
+	}
+}

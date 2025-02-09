@@ -1,0 +1,4114 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_gamesmulti"
+		texturefile = "gfx/interface/gamesmulti.dds"
+	}
+	spriteType = {
+		name = "GFX_sandbox"
+		texturefile = "gfx/interface/sandbox.dds"
+	}
+	spriteType = {
+		name = "GFX_select_date_mode_3"
+		texturefile = "gfx/interface/select_date_mode_3.dds"
+	}
+	spriteType = {
+		name = "GFX_select_date_mode_3"
+		texturefile = "gfx/interface/select_date_mode_3.dds"
+	}
+	spriteType = {
+		name = "GFX_test223112"
+		texturefile = "gfx/interface/test1.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_1_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_2_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_3_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_4_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_5_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_6_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_7_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_8_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_9_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_10_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_11_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_12_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_13_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_14_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_15_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_16_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_17_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_18_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_19_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_20_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_21_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_22_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_23_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_24_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_25_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_26_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_27_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_28_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_29_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_30_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_31_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_32_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_33_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_34_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_35_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_36_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_37_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_38_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_39_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_40_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_41_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_42_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_43_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_44_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_45_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_46_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_47_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_48_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_49_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_50_A_medium"
+		texturefile = "gfx/tech/tech_support_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_1_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_2_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_3_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_4_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_5_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_6_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_7_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_8_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_9_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_10_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_11_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_12_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_13_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_14_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_15_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_16_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_17_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_18_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_19_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_20_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_21_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_22_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_23_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_24_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_25_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_26_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_27_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_28_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_29_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_30_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_31_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_32_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_33_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_34_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_35_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_36_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_37_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_38_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_39_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_40_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_41_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_42_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_43_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_44_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_45_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_46_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_47_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_48_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_49_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_50_B_medium"
+		texturefile = "gfx/tech/tech_support_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_1_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_2_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_3_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_4_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_5_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_6_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_7_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_8_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_9_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_10_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_11_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_12_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_13_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_14_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_15_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_16_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_17_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_18_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_19_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_20_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_21_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_22_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_23_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_24_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_25_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_26_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_27_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_28_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_29_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_30_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_31_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_32_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_33_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_34_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_35_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_36_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_37_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_38_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_39_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_40_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_41_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_42_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_43_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_44_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_45_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_46_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_47_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_48_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_49_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_50_C_medium"
+		texturefile = "gfx/tech/tech_support_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_1_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_2_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_3_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_4_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_5_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_6_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_7_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_8_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_9_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_10_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_11_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_12_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_13_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_14_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_15_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_16_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_17_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_18_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_19_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_20_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_21_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_22_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_23_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_24_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_25_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_26_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_27_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_28_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_29_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_30_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_31_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_32_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_33_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_34_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_35_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_36_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_37_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_38_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_39_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_40_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_41_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_42_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_43_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_44_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_45_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_46_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_47_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_48_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_49_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_50_D_medium"
+		texturefile = "gfx/tech/tech_support_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_1_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_2_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_3_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_4_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_5_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_6_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_7_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_8_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_9_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_10_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_11_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_12_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_13_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_14_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_15_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_16_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_17_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_18_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_19_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_20_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_21_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_22_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_23_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_24_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_25_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_26_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_27_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_28_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_29_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_30_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_31_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_32_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_33_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_34_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_35_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_36_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_37_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_38_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_39_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_40_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_41_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_42_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_43_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_44_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_45_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_46_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_47_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_48_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_49_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_50_E_medium"
+		texturefile = "gfx/tech/tech_support_E.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_1_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_2_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_3_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_4_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_5_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_6_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_7_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_8_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_9_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_10_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_11_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_12_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_13_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_14_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_15_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_16_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_17_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_18_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_19_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_20_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_21_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_22_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_23_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_24_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_25_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_26_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_27_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_28_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_29_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_30_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_31_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_32_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_33_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_34_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_35_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_36_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_37_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_38_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_39_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_40_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_41_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_42_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_43_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_44_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_45_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_46_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_47_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_48_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_49_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_50_K_medium"
+		texturefile = "gfx/tech/tech_support_K.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_1_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_2_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_3_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_4_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_5_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_6_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_7_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_8_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_9_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_10_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_11_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_12_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_13_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_14_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_15_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_16_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_17_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_18_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_19_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_20_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_21_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_22_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_23_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_24_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_25_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_26_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_27_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_28_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_29_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_30_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_31_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_32_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_33_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_34_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_35_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_36_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_37_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_38_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_39_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_40_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_41_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_42_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_43_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_44_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_45_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_46_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_47_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_48_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_49_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_support_50_F_medium"
+		texturefile = "gfx/tech/tech_support_F.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_1_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_2_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_3_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_4_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_5_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_6_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_7_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_8_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_9_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_10_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_11_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_12_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_13_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_14_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_15_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_16_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_17_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_18_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_19_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_20_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_21_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_22_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_23_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_24_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_25_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_26_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_27_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_28_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_29_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_30_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_31_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_32_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_33_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_34_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_35_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_36_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_37_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_38_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_39_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_40_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_41_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_42_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_43_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_44_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_45_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_46_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_47_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_48_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_49_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_50_B_medium"
+		texturefile = "gfx/tech/tech_A_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_1_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_2_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_3_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_4_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_5_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_6_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_7_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_8_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_9_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_10_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_11_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_12_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_13_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_14_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_15_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_16_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_17_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_18_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_19_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_20_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_21_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_22_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_23_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_24_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_25_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_26_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_27_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_28_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_29_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_30_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_31_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_32_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_33_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_34_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_35_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_36_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_37_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_38_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_39_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_40_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_41_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_42_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_43_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_44_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_45_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_46_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_47_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_48_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_49_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_50_B_medium"
+		texturefile = "gfx/tech/tech_B_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_1_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_2_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_3_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_4_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_5_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_6_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_7_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_8_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_9_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_10_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_11_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_12_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_13_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_14_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_15_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_16_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_17_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_18_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_19_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_20_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_21_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_22_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_23_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_24_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_25_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_26_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_27_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_28_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_29_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_30_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_31_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_32_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_33_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_34_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_35_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_36_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_37_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_38_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_39_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_40_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_41_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_42_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_43_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_44_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_45_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_46_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_47_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_48_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_49_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_50_B_medium"
+		texturefile = "gfx/tech/tech_C_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_1_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_2_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_3_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_4_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_5_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_6_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_7_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_8_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_9_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_10_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_11_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_12_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_13_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_14_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_15_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_16_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_17_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_18_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_19_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_20_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_21_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_22_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_23_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_24_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_25_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_26_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_27_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_28_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_29_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_30_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_31_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_32_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_33_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_34_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_35_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_36_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_37_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_38_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_39_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_40_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_41_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_42_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_43_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_44_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_45_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_46_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_47_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_48_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_49_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_50_B_medium"
+		texturefile = "gfx/tech/tech_D_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_1_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_2_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_3_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_4_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_5_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_6_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_7_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_8_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_9_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_10_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_11_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_12_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_13_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_14_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_15_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_16_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_17_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_18_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_19_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_20_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_21_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_22_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_23_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_24_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_25_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_26_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_27_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_28_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_29_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_30_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_31_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_32_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_33_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_34_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_35_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_36_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_37_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_38_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_39_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_40_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_41_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_42_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_43_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_44_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_45_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_46_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_47_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_48_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_49_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_50_A_medium"
+		texturefile = "gfx/tech/tech_D_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_1_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_2_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_3_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_4_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_5_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_6_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_7_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_8_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_9_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_10_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_11_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_12_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_13_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_14_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_15_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_16_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_17_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_18_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_19_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_20_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_21_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_22_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_23_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_24_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_25_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_26_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_27_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_28_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_29_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_30_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_31_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_32_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_33_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_34_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_35_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_36_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_37_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_38_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_39_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_40_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_41_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_42_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_43_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_44_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_45_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_46_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_47_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_48_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_49_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_50_A_medium"
+		texturefile = "gfx/tech/tech_C_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_1_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_2_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_3_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_4_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_5_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_6_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_7_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_8_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_9_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_10_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_11_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_12_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_13_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_14_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_15_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_16_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_17_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_18_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_19_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_20_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_21_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_22_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_23_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_24_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_25_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_26_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_27_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_28_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_29_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_30_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_31_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_32_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_33_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_34_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_35_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_36_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_37_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_38_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_39_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_40_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_41_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_42_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_43_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_44_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_45_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_46_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_47_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_48_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_49_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_50_A_medium"
+		texturefile = "gfx/tech/tech_B_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_1_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_2_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_3_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_4_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_5_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_6_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_7_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_8_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_9_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_10_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_11_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_12_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_13_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_14_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_15_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_16_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_17_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_18_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_19_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_20_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_21_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_22_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_23_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_24_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_25_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_26_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_27_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_28_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_29_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_30_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_31_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_32_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_33_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_34_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_35_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_36_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_37_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_38_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_39_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_40_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_41_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_42_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_43_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_44_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_45_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_46_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_47_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_48_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_49_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_50_A_medium"
+		texturefile = "gfx/tech/tech_A_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_1_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_2_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_3_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_4_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_5_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_6_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_7_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_8_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_9_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_10_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_11_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_12_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_13_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_14_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_15_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_16_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_17_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_18_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_19_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_20_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_21_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_22_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_23_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_24_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_25_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_26_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_27_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_28_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_29_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_30_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_31_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_32_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_33_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_34_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_35_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_36_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_37_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_38_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_39_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_40_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_41_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_42_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_43_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_44_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_45_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_46_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_47_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_48_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_49_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_50_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_1_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_2_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_3_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_4_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_5_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_6_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_7_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_8_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_9_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_10_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_11_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_12_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_13_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_14_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_15_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_16_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_17_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_18_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_19_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_20_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_21_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_22_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_23_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_24_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_25_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_26_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_27_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_28_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_29_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_30_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_31_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_32_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_33_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_34_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_35_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_36_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_37_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_38_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_39_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_40_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_41_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_42_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_43_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_44_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_45_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_46_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_47_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_48_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_49_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_50_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_1_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_2_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_3_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_4_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_5_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_6_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_7_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_8_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_9_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_10_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_11_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_12_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_13_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_14_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_15_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_16_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_17_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_18_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_19_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_20_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_21_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_22_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_23_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_24_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_25_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_26_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_27_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_28_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_29_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_30_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_31_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_32_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_33_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_34_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_35_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_36_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_37_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_38_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_39_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_40_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_41_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_42_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_43_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_44_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_45_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_46_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_47_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_48_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_49_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_50_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_1_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_2_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_3_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_4_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_5_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_6_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_7_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_8_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_9_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_10_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_11_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_12_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_13_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_14_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_15_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_16_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_17_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_18_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_19_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_20_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_21_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_22_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_23_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_24_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_25_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_26_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_27_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_28_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_29_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_30_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_31_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_32_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_33_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_34_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_35_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_36_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_37_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_38_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_39_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_40_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_41_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_42_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_43_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_44_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_45_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_46_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_47_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_48_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_49_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_50_C_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_nukes2_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_nukes3_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_nukes4_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_nukes5_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_nukes6_medium"
+		texturefile = "gfx/tech/tech_infinity.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_A_medium"
+		texturefile = "gfx/tech/tech_A.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_B_medium"
+		texturefile = "gfx/tech/tech_B.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_C_medium"
+		texturefile = "gfx/tech/tech_C.dds"
+	}
+	SpriteType = {
+		name = "GFX_tech_D_medium"
+		texturefile = "gfx/tech/tech_D.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_1_1_medium"
+		texturefile = "gfx/tech/perk_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_1_2_medium"
+		texturefile = "gfx/tech/perk_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_1_3_medium"
+		texturefile = "gfx/tech/perk_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_1_4_medium"
+		texturefile = "gfx/tech/perk_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_1_5_medium"
+		texturefile = "gfx/tech/perk_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_1_6_medium"
+		texturefile = "gfx/tech/perk_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_1_7_medium"
+		texturefile = "gfx/tech/perk_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_1_8_medium"
+		texturefile = "gfx/tech/perk_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_1_9_medium"
+		texturefile = "gfx/tech/perk_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_1_10_medium"
+		texturefile = "gfx/tech/perk_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_2_1_medium"
+		texturefile = "gfx/tech/perk_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_2_2_medium"
+		texturefile = "gfx/tech/perk_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_2_3_medium"
+		texturefile = "gfx/tech/perk_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_2_4_medium"
+		texturefile = "gfx/tech/perk_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_2_5_medium"
+		texturefile = "gfx/tech/perk_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_2_6_medium"
+		texturefile = "gfx/tech/perk_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_2_7_medium"
+		texturefile = "gfx/tech/perk_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_2_8_medium"
+		texturefile = "gfx/tech/perk_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_2_9_medium"
+		texturefile = "gfx/tech/perk_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_2_10_medium"
+		texturefile = "gfx/tech/perk_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_3_1_medium"
+		texturefile = "gfx/tech/perk_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_3_2_medium"
+		texturefile = "gfx/tech/perk_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_3_3_medium"
+		texturefile = "gfx/tech/perk_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_3_4_medium"
+		texturefile = "gfx/tech/perk_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_3_5_medium"
+		texturefile = "gfx/tech/perk_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_3_6_medium"
+		texturefile = "gfx/tech/perk_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_3_7_medium"
+		texturefile = "gfx/tech/perk_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_3_8_medium"
+		texturefile = "gfx/tech/perk_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_3_9_medium"
+		texturefile = "gfx/tech/perk_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_3_10_medium"
+		texturefile = "gfx/tech/perk_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_4_1_medium"
+		texturefile = "gfx/tech/perk_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_4_2_medium"
+		texturefile = "gfx/tech/perk_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_4_3_medium"
+		texturefile = "gfx/tech/perk_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_4_4_medium"
+		texturefile = "gfx/tech/perk_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_4_5_medium"
+		texturefile = "gfx/tech/perk_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_4_6_medium"
+		texturefile = "gfx/tech/perk_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_4_7_medium"
+		texturefile = "gfx/tech/perk_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_4_8_medium"
+		texturefile = "gfx/tech/perk_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_4_9_medium"
+		texturefile = "gfx/tech/perk_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_4_10_medium"
+		texturefile = "gfx/tech/perk_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_5_1_medium"
+		texturefile = "gfx/tech/perk_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_5_2_medium"
+		texturefile = "gfx/tech/perk_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_5_3_medium"
+		texturefile = "gfx/tech/perk_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_5_4_medium"
+		texturefile = "gfx/tech/perk_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_5_5_medium"
+		texturefile = "gfx/tech/perk_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_5_6_medium"
+		texturefile = "gfx/tech/perk_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_5_7_medium"
+		texturefile = "gfx/tech/perk_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_5_8_medium"
+		texturefile = "gfx/tech/perk_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_5_9_medium"
+		texturefile = "gfx/tech/perk_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_5_10_medium"
+		texturefile = "gfx/tech/perk_5.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_6_1_medium"
+		texturefile = "gfx/tech/perk_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_6_2_medium"
+		texturefile = "gfx/tech/perk_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_6_3_medium"
+		texturefile = "gfx/tech/perk_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_6_4_medium"
+		texturefile = "gfx/tech/perk_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_6_5_medium"
+		texturefile = "gfx/tech/perk_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_6_6_medium"
+		texturefile = "gfx/tech/perk_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_6_7_medium"
+		texturefile = "gfx/tech/perk_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_6_8_medium"
+		texturefile = "gfx/tech/perk_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_6_9_medium"
+		texturefile = "gfx/tech/perk_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_6_10_medium"
+		texturefile = "gfx/tech/perk_6.dds"
+	}
+	SpriteType = {
+		name = "GFX_perk_doctrine_medium"
+		texturefile = "gfx/tech/perk_doctrine.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_generic_support_communism"
+		texturefile = "gfx/national/goal_generic_support_communism.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_generic_support_democracy"
+		texturefile = "gfx/national/goal_generic_support_democracy.dds"
+	}
+	SpriteType = {
+		name = "GFX_goal_generic_support_fascism"
+		texturefile = "gfx/national/goal_generic_support_fascism.dds"
+	}	
+}

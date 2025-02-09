@@ -1,0 +1,55 @@
+ideas = {
+    country = {
+	    games_idea_bonus = {			 
+			removal_cost = -1		
+			picture = generic_infantry_bonus
+			modifier = {
+				experience_gain_army_unit_factor = 0.1
+				command_power_gain_mult = 0.25
+			    production_speed_buildings_factor = 0.1
+	            production_factory_max_efficiency_factor = 0.1
+	            production_factory_efficiency_gain_factor = 0.1
+				industrial_capacity_factory = 0.1
+				research_speed_factor = 0.2
+			}
+		}
+    } 
+    country = {
+	    perk_1 = {			
+			removal_cost = -1
+			picture = generic_infantry_bonus
+			modifier = {
+				army_attack_factor = 0.10
+			}
+		}
+	    perk_2 = {			
+			removal_cost = -1
+			picture = generic_infantry_bonus
+			modifier = {
+				army_defence_factor = 0.10
+			}
+		}
+	    perk_3 = {			
+			removal_cost = -1
+			picture = generic_infantry_bonus
+			modifier = {
+				army_org_factor = 0.05
+				army_org_regain = 0.05
+			}
+		}
+	    perk_4 = {			
+			removal_cost = -1
+			picture = generic_research_bonus
+			modifier = {
+				research_speed_factor = 0.025
+			}
+		}		
+       vendor_bonus = {			
+			removal_cost = -1	
+			modifier = {
+				min_export = 1
+			}
+		}		
+		
+	}
+}	

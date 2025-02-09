@@ -1,0 +1,28 @@
+bookmarks = {
+	bookmark = {
+		name = "BLITZKRIEG_NAME"
+		desc = "BLITZKRIEG_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "BLU"
+		default = yes
+		
+		"BLU"={
+			history = "BLU_GATHERING_STORM_DESC"
+			ideology = neutrality
+			}
+		"RED"={
+			history = "RED_GATHERING_STORM_DESC"
+			ideology = neutrality
+				}
+                 "---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+			}
+	
+	
+		}
+	}

@@ -1,0 +1,64 @@
+﻿capital = 32
+
+OOB = "BRD_1936"
+
+set_stability = 0.5
+set_war_support = 0.5
+set_research_slots = 0
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+	gwtank = 1
+	gw_artillery = 1
+	early_fighter = 1
+	early_bomber = 1
+	motorised_infantry = 1
+
+}
+
+set_politics = {	
+	
+	ruling_party = neutrality
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	fascism = 0
+	communism = 0
+	neutrality = 100
+	democratic = 0
+}
+
+add_ideas = {
+
+	free_trade
+
+}
+
+set_convoys = 5
+
+create_country_leader = {
+	name = "Blue palyer"
+	desc = "POLITICS_KING_VER_DESC"
+	picture = "gfx/leaders/VER/Portrait_VER.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+create_field_marshal = {
+	name = "Blue marshal"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	traits = { }
+	skill = 2
+	attack_skill = 1
+    defense_skill = 2
+    planning_skill = 2
+    logistics_skill = 1
+}
+

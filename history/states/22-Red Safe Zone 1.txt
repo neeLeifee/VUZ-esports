@@ -1,0 +1,21 @@
+state={
+	id=22
+	name="STATE_22"
+	state_category = megalopolis
+        history={
+		owner = RED
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 3
+
+		}
+	add_core_of = RED
+
+	}
+	provinces={
+		421 471 502 543 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+}

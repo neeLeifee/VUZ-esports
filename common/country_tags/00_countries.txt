@@ -1,0 +1,7 @@
+BLU = "countries/Blue player.txt"
+RED = "countries/Red player.txt"
+VER = "countries/Vendor.txt"
+
+
+
+TST = "countries/Test.txt"

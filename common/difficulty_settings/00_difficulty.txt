@@ -1,0 +1,188 @@
+difficulty_settings = {
+	difficulty_setting = {
+		key = "custom_diff_strong_ai_bonus1"
+		modifier = diff_strong_ai_bonus1 
+		countries = { BLU ORG RED GRN }
+		multiplier = 0.35
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ai_bonus2"
+		modifier = diff_strong_ai_bonus2 
+		countries = { BLU ORG RED GRN }
+		multiplier = 0.35
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ai_bonus3"
+		modifier = diff_strong_ai_bonus3 
+		countries = { BLU ORG RED GRN }
+		multiplier = 0.25
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ai_bonus4"
+		modifier = diff_strong_ai_bonus4 
+		countries = { BLU ORG RED GRN }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ai_bonus5"
+		modifier = diff_strong_ai_bonus5 
+		countries = { BLU ORG RED GRN }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ai_bonus6"
+		modifier = diff_strong_ai_bonus6 
+		countries = { BLU ORG RED GRN }
+		multiplier = 20
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ai_bonus7"
+		modifier = diff_strong_ai_bonus7 
+		countries = { BLU ORG RED GRN }
+		multiplier = 20
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_BLU_bonus1"
+		modifier = diff_strong_ai_bonus8 
+		countries = { BLU }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_BLU_bonus2"
+		modifier = diff_strong_ai_bonus9 
+		countries = { BLU }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_BLU_bonus3"
+		modifier = diff_strong_ai_bonus10 
+		countries = { BLU }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_BLU_bonus4"
+		modifier = diff_strong_ai_bonus11 
+		countries = { BLU }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_BLU_bonus5"
+		modifier = diff_strong_ai_bonus12 
+		countries = { BLU }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_BLU_bonus6"
+		modifier = diff_strong_ai_bonus13 
+		countries = { BLU }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_RED_bonus1"
+		modifier = diff_strong_ai_bonus8 
+		countries = { RED }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_RED_bonus2"
+		modifier = diff_strong_ai_bonus9 
+		countries = { RED }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_RED_bonus3"
+		modifier = diff_strong_ai_bonus10 
+		countries = { RED }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_RED_bonus4"
+		modifier = diff_strong_ai_bonus11 
+		countries = { RED }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_RED_bonus5"
+		modifier = diff_strong_ai_bonus12 
+		countries = { RED }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_RED_bonus6"
+		modifier = diff_strong_ai_bonus13 
+		countries = { RED }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ORG_bonus1"
+		modifier = diff_strong_ai_bonus8 
+		countries = { ORG }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ORG_bonus2"
+		modifier = diff_strong_ai_bonus9 
+		countries = { ORG }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ORG_bonus3"
+		modifier = diff_strong_ai_bonus10 
+		countries = { ORG }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ORG_bonus4"
+		modifier = diff_strong_ai_bonus11 
+		countries = { ORG }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ORG_bonus5"
+		modifier = diff_strong_ai_bonus12 
+		countries = { ORG }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_ORG_bonus6"
+		modifier = diff_strong_ai_bonus13 
+		countries = { ORG }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_GRN_bonus1"
+		modifier = diff_strong_ai_bonus8 
+		countries = { GRN }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_GRN_bonus2"
+		modifier = diff_strong_ai_bonus9 
+		countries = { GRN }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_GRN_bonus3"
+		modifier = diff_strong_ai_bonus10 
+		countries = { GRN }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_GRN_bonus4"
+		modifier = diff_strong_ai_bonus11 
+		countries = { GRN }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_GRN_bonus5"
+		modifier = diff_strong_ai_bonus12 
+		countries = { GRN }
+		multiplier = 8
+	}
+	difficulty_setting = {
+		key = "custom_diff_strong_GRN_bonus6"
+		modifier = diff_strong_ai_bonus13 
+		countries = { GRN }
+		multiplier = 8
+	}
+}

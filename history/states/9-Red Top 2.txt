@@ -1,0 +1,33 @@
+state={
+	id=9
+	name="STATE_9"
+	state_category = megalopolis
+        resources={
+		chromium=2.000
+		aluminium=3.000
+		steel=7.000
+		tungsten=3.000
+		oil=2.000
+		rubber=1.000
+	}
+
+	history={
+		owner = RED
+		victory_points = {
+			673 1 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+		add_core_of = RED
+
+	}
+	provinces={
+		648 655 656 657 659 662 663 665 672 673 676 680 681 683 687 688 690 692 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+}

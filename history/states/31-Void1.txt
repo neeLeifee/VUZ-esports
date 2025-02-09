@@ -1,0 +1,15 @@
+state={
+	id=31
+	name="STATE_31"
+	state_category = megalopolis
+	impassable = yes
+	
+	history={
+		owner = VER
+		}
+	provinces={
+		544 575 590 598 608 623 627 633 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

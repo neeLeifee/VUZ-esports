@@ -1,0 +1,33 @@
+state={
+	id=13
+	name="STATE_13"
+	state_category = megalopolis
+        resources={
+		chromium=2.000
+		aluminium=3.000
+		steel=7.000
+		tungsten=3.000
+		oil=2.000
+		rubber=1.000
+	}
+
+	history={
+		owner = BLU
+		victory_points = {
+			106 1 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 2
+
+		}
+		add_core_of = BLU
+
+	}
+	provinces={
+		67 76 79 88 92 93 100 105 106 107 110 114 115 116 119 121 124 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+}
