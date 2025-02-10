@@ -6,6 +6,17 @@ on_actions = {
 				country_event = { id = VEevents.1 }
 			}
 
+			BLU = {
+				every_owned_state = {
+					add_core_of = BLU
+				}
+			}
+			RED = {
+				every_owned_state = {
+					add_core_of = RED
+				}
+			}
+
 		}
 	}
 }

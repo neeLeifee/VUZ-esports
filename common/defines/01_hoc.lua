@@ -5,6 +5,7 @@ NDefines.NDiplomacy.MIN_WARGOAL_JUSTIFY_COST = 1000.0
 NDefines.NDiplomacy.MAX_TRUST_VALUE = 9999
 NDefines.NDiplomacy.MAX_OPINION_VALUE = 999
 NDefines.NDiplomacy.ASSUME_FACTION_LEADERSHIP_MIN_MANPOWER_RATIO = 99999
+NDefines.NCountry.POLITICAL_POWER_UPPER_CAP = 9999
 NDefines.NCountry.BASE_STABILITY_WAR_FACTOR = 0.0
 NDefines.NCountry.WAR_SUPPORT_OFFNSIVE_WAR = 0.0
 NDefines.NCountry.WAR_SUPPORT_DEFENSIVE_WAR = 0.0
@@ -32,7 +33,7 @@ NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_OCCUPIED_IS_EXILE_MIN = 0.0
 NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_OCCUPIED_IS_EXILE_MAX = 0.0
 NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_POP_LOW = 0.0
 NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_POP_VERY_LOW = 0.0
-NDefines.NResistance.RESISTANCE_DECAY_BASE = 10.0
+NDefines.NResistance.RESISTANCE_DECAY_BASE = 0
 NDefines.NResistance.RESISTANCE_DECAY_MIN = 9.0
 NDefines.NResistance.MIN_DAMAGE_TO_GARRISONS_MODIFIER = 0.0
 NDefines.NResistance.RESISTANCE_GROWTH_BASE = -1.0
@@ -40,6 +41,7 @@ NDefines.NResistance.RESISTANCE_GROWTH_MIN = -1.0
 NDefines.NResistance.RESISTANCE_GROWTH_MAX = -1.0
 NDefines.NResistance.COMPLIANCE_GROWTH_BASE = 100.0
 NDefines.NResistance.COMPLIANCE_GROWTH_MIN = 100.0
+NDefines.NResistance.COMPLIANCE_GROWTH_IS_AT_PEACE = 0
 NDefines.NResistance.COMPLIANCE_DECAY_AT_MAX_COMPLIANCE = 0
 NDefines.NResistance.COMPLIANCE_DECAY_PER_EXILE_LEGITIMACY = 0
 NDefines.NResistance.RESISTANCE_ACTIVITY_CHANCE_AT_MAX_RESISTANCE = 0
@@ -52,7 +54,7 @@ NDefines.NResistance.GARRISON_MANPOWER_LOST_BY_ATTACK = 0.0
 NDefines.NResistance.GARRISON_EQUIPMENT_LOST_BY_ATTACK = 0.0
 NDefines.NResistance.MAXIMUM_GARRISON_HARDNESS_WHEN_ATTACKED = 1.0
 NDefines.NResistance.INITIAL_HISTORY_COMPLIANCE = 100.0
-NDefines.NResistance.INITIAL_GARRISON_STRENGTH = 100
+NDefines.NResistance.INITIAL_GARRISON_STRENGTH = 0
 
 -- NMilitary
 NDefines.NMilitary.MAX_ARMY_EXPERIENCE = 999
@@ -92,7 +94,6 @@ NDefines.NAI.PRODUCTION_EQUIPMENT_SURPLUS_FACTOR = 0.25	-- Base value for how mu
 NDefines.NOperatives.BOOST_IDEOLOGY_DRIFT_STACKING_FACTOR = 0.1	-- multiplied to the drift of an operative for each operative after the first one, with the greatest drift. So if we have the following drift values [ 0.1, 0.3, 0.2 ], the factor is applied twice for the lowest value and once for the 2nd lowest one as such : [ 0.3, 0.2 * D, 0.1 * D * D ] and then the result is summed up to give the final drift value.
 
 
-NDefines.NCountry.POLITICAL_POWER_UPPER_CAP = 9999
 -- Spot Optimizations
 NDefines.NGame.LAG_DAYS_FOR_LOWER_SPEED = 100								-- Days of client lag for decrease of gamespeed
 NDefines.NGame.LAG_DAYS_FOR_PAUSE = 60										-- Days of client lag for pause of gamespeed.

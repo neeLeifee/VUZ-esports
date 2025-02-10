@@ -76,13 +76,3 @@ create_country_leader = {
 		#
 	}
 }
-
-add_opinion_modifier = {
-							target = BLU
-							modifier = vest
-						}
-
-	add_ideas = {
-		BRI_BONUS
-}
-

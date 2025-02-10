@@ -10,19 +10,14 @@ bookmarks = {
 		"BLU"={
 			history = "BLU_GATHERING_STORM_DESC"
 			ideology = neutrality
-			}
+		}
 		"RED"={
 			history = "RED_GATHERING_STORM_DESC"
 			ideology = neutrality
-				}
-                 "---"={
-			history = "OTHER_BLITZKRIEG_DESC"
 		}
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !
 			#123 = { rain_light = yes }
-			}
-	
-	
-		}
+		}	
 	}
+}

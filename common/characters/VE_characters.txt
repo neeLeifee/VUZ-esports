@@ -1,0 +1,18 @@
+characters={
+
+	ic_ENG_philip_kerr={
+		name=ENG_philip_kerr
+		portraits={
+			army={
+				small="GFX_idea_ENG_philip_kerr"
+			}
+		}
+		advisor={
+			slot = political_advisor
+			idea_token = ic_ENG_philip_kerr
+			traits  = {
+				silent_workhorse 
+			}
+		}		
+	}
+}

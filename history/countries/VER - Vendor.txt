@@ -61,4 +61,3 @@ create_field_marshal = {
     planning_skill = 2
     logistics_skill = 1
 }
-
