@@ -1,18 +1,18 @@
-﻿###########################
-# News Events
-###########################
-
-add_namespace = stwar
+﻿add_namespace = stwar
 news_event = {
 	id = stwar.1
 	title = stwar.1.t
-	desc = stwar.1.d	
+	desc = stwar.1.d
 	picture = GFX_news_event_001	
 	major = yes	
-	is_triggered_only = yes	
-	option = {
-		name = stwar.1.a		
+	is_triggered_only = yes
+	option = { 	
+		name = stwar.1.a
+		BLU = {
+			declare_war_on = {
+				target = RED
+				type = annex_everything
+			}
+		}
 	}
 }
-
-

@@ -1,0 +1,24 @@
+﻿add_namespace = VEevents
+country_event = {
+	id = VEevents.1
+	title = VEevents.1.t
+	desc = VEevents.1.d
+	picture = GFX_report_event_generic_rally
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = VEevents.1.a
+		# war in 1 year
+		news_event = { days = 365 id = stwar.1 }
+	}
+	option = {
+		name = VEevents.1.b
+		# war in 1.5 years
+		news_event = { days = 550 id = stwar.1 }
+	}
+	option = {
+		name = VEevents.1.c
+		# war in 2 years
+		news_event = { days = 730 id = stwar.1 }
+	}
+}

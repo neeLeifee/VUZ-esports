@@ -1,4 +1,6 @@
 -- BASE
+NDefines.NCountry.REINFORCEMENT_EQUIPMENT_DELIVERY_SPEED = 1
+NDefines.NCountry.REINFORCEMENT_MANPOWER_DELIVERY_SPEED = 30.0
 NDefines.NDiplomacy.MIN_WARGOAL_JUSTIFY_COST = 1000.0
 NDefines.NDiplomacy.MAX_TRUST_VALUE = 9999
 NDefines.NDiplomacy.MAX_OPINION_VALUE = 999
@@ -10,7 +12,72 @@ NDefines.NCountry.MAX_INTELLIGENCE_DIFFERENCE = 3.0					-- (Old Intel) Max diffe
 NDefines.NCountry.MIN_SURRENDER_LIMIT = 0.1							-- Minimum non-forced surrender limit. valid 0-1
 NDefines.NCountry.ARMY_COUNT_DAILY_DECREASE_FOR_TRAINING_XP = -0.1 -- number of armies that is used in training xp calculates daily linearly approaches this number (if real number is lower)
 
-NDefines.NResistance.COMPLIANCE_FACTOR_ON_STATE_CONTROLLER_CHANGE = 0.1	-- compliance factor that applies when the state controller changes (in between allies, compliance is zeroed if it is taken by original country)
+
+-- NResistance
+NDefines.NResistance.INITIAL_STATE_RESISTANCE = 0.0
+NDefines.NResistance.INITIAL_STATE_COMPLIANCE = 100.0
+NDefines.NResistance.RESISTANCE_TARGET_BASE = 0.0
+NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_HAS_CLAIM = 0.0
+NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_PER_STABILITY_LOSS = 0
+NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_PER_COMPLIANCE = 0
+NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_IS_AT_PEACE = 0
+NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_STATE_VP = {
+	0,   0,
+	0,   0,
+	0,   0,
+	0,   0,
+}
+NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_OCCUPIED_CAPITULATED = 0.0
+NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_OCCUPIED_IS_EXILE_MIN = 0.0
+NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_OCCUPIED_IS_EXILE_MAX = 0.0
+NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_POP_LOW = 0.0
+NDefines.NResistance.RESISTANCE_TARGET_MODIFIER_POP_VERY_LOW = 0.0
+NDefines.NResistance.RESISTANCE_DECAY_BASE = 10.0
+NDefines.NResistance.RESISTANCE_DECAY_MIN = 9.0
+NDefines.NResistance.MIN_DAMAGE_TO_GARRISONS_MODIFIER = 0.0
+NDefines.NResistance.RESISTANCE_GROWTH_BASE = -1.0
+NDefines.NResistance.RESISTANCE_GROWTH_MIN = -1.0
+NDefines.NResistance.RESISTANCE_GROWTH_MAX = -1.0
+NDefines.NResistance.COMPLIANCE_GROWTH_BASE = 100.0
+NDefines.NResistance.COMPLIANCE_GROWTH_MIN = 100.0
+NDefines.NResistance.COMPLIANCE_DECAY_AT_MAX_COMPLIANCE = 0
+NDefines.NResistance.COMPLIANCE_DECAY_PER_EXILE_LEGITIMACY = 0
+NDefines.NResistance.RESISTANCE_ACTIVITY_CHANCE_AT_MAX_RESISTANCE = 0
+NDefines.NResistance.RESISTANCE_ACTIVITY_MIN_GARRISON_PENETRATE_CHANCE = 0
+NDefines.NResistance.RESISTANCE_TARGET_TO_REENABLE_RESISTANCE = 100
+NDefines.NResistance.GARRISON_LOG_MAX_MONTHS = 0
+NDefines.NResistance.GARRISON_MANPOWER_MIN_DELIVERY_SPEED = 1
+NDefines.NResistance.GARRISON_EQUIPMENT_DELIVERY_SPEED = 2000.0
+NDefines.NResistance.GARRISON_MANPOWER_LOST_BY_ATTACK = 0.0
+NDefines.NResistance.GARRISON_EQUIPMENT_LOST_BY_ATTACK = 0.0
+NDefines.NResistance.MAXIMUM_GARRISON_HARDNESS_WHEN_ATTACKED = 1.0
+NDefines.NResistance.INITIAL_HISTORY_COMPLIANCE = 100.0
+NDefines.NResistance.INITIAL_GARRISON_STRENGTH = 100
+
+-- NMilitary
+NDefines.NMilitary.MAX_ARMY_EXPERIENCE = 999
+NDefines.NMilitary.MAX_NAVY_EXPERIENCE = 999
+NDefines.NMilitary.MAX_AIR_EXPERIENCE = 999
+NDefines.NMilitary.PROMOTE_LEADER_CP_COST = 0.0
+NDefines.NMilitary.FIELD_MARSHAL_ARMY_BONUS_RATIO = 1
+
+NDefines.NMilitary.BASE_DIVISION_BRIGADE_GROUP_COST = 0 	--Base cost to unlock a regiment slot,
+NDefines.NMilitary.BASE_DIVISION_BRIGADE_CHANGE_COST = 0	--Base cost to change a regiment column.
+NDefines.NMilitary.BASE_DIVISION_SUPPORT_SLOT_COST = 0 	--Base cost to unlock a support slot
+
+NDefines.NMilitary.LAND_EQUIPMENT_BASE_COST = 1				-- Cost in XP to upgrade a piece of equipment one level is base + ( total levels * ramp )
+NDefines.NMilitary.LAND_EQUIPMENT_RAMP_COST = 0					
+NDefines.NMilitary.NAVAL_EQUIPMENT_BASE_COST = 1
+NDefines.NMilitary.NAVAL_EQUIPMENT_RAMP_COST = 0
+NDefines.NMilitary.AIR_EQUIPMENT_BASE_COST = 1
+NDefines.NMilitary.AIR_EQUIPMENT_RAMP_COST = 0
+
+
+-- NProduction
+NDefines.NProduction.EQUIPMENT_MODULE_ADD_XP_COST = 0.0				-- XP cost for adding a new equipment module in an empty slot when creating an equipment variant.
+NDefines.NProduction.EQUIPMENT_MODULE_REPLACE_XP_COST = 0.0				-- XP cost for replacing one equipment module with an unrelated module when creating an equipment variant.
+NDefines.NProduction.EQUIPMENT_MODULE_CONVERT_XP_COST = 0.0				-- XP cost for converting one equipment module to a related module when creating an equipment variant.
+NDefines.NProduction.EQUIPMENT_MODULE_REMOVE_XP_COST = 0.0
 
 NDefines.NTrade.RELATION_TRADE_FACTOR = 0			-- Trade factor is modified by Opinion value times this
 

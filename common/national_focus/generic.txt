@@ -1936,8 +1936,6 @@ focus_tree = {
 					popularity = 0.2
 				}
 			}
-			custom_effect_tooltip = military_youth_tt
-			add_to_variable = { train_peoples_militia_time_var = -10 }
 		}
 	}
 	focus = {
@@ -1970,9 +1968,6 @@ focus_tree = {
 			has_country_flag = summon_peoples_militia_flag
 		}
 		completion_reward = {
-			set_temp_variable = { peoples_militia_temp = 4 }
-			add_to_variable = { peoples_militia_var = peoples_militia_temp }
-			custom_effect_tooltip = train_peoples_militia_tt
 		}
 	}
 	focus = {
@@ -2028,8 +2023,6 @@ focus_tree = {
 		completion_reward = {
 			add_ideas = indoctrination_focus
 			add_political_power = 150
-			custom_effect_tooltip = indoctrination_focus_tt
-			multiply_variable = { peoples_militia_var = 2 }
 		}
 
 	}

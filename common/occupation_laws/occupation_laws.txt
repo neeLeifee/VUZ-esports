@@ -1,0 +1,12 @@
+ZoV = {
+	icon = 0
+	default_law = yes
+	sound_effect = "Martial_Law_Interface_No_Garrison"
+	
+	starting_law = yes
+
+	state_modifier = {
+		required_garrison_factor = -1
+	}
+	suppressed_state_modifier = {  }
+}
