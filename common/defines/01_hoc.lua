@@ -12,7 +12,13 @@ NDefines.NCountry.WAR_SUPPORT_DEFENSIVE_WAR = 0.0
 NDefines.NCountry.MAX_INTELLIGENCE_DIFFERENCE = 3.0					-- (Old Intel) Max difference in intelligence levels between countries
 NDefines.NCountry.MIN_SURRENDER_LIMIT = 0.1							-- Minimum non-forced surrender limit. valid 0-1
 NDefines.NCountry.ARMY_COUNT_DAILY_DECREASE_FOR_TRAINING_XP = -0.1 -- number of armies that is used in training xp calculates daily linearly approaches this number (if real number is lower)
+NDefines.NCountry.BASE_MOBILIZATION_SPEED = 100
+NDefines.NCountry.BASE_MAX_COMMAND_POWER = 100
+NDefines.NBuildings.MAX_SHARED_SLOTS = 50
+NDefines.NCharacter.DEFAULT_PP_COST_FOR_MILITARY_ADVISOR = 100
+NDefines.NCharacter.DEFAULT_PP_COST_FOR_POLITICAL_ADVISOR = 100
 
+NDefines.NFocus.FOCUS_POINT_DAYS = 5
 
 -- NResistance
 NDefines.NResistance.INITIAL_STATE_RESISTANCE = 0.0
@@ -62,6 +68,7 @@ NDefines.NMilitary.MAX_NAVY_EXPERIENCE = 999
 NDefines.NMilitary.MAX_AIR_EXPERIENCE = 999
 NDefines.NMilitary.PROMOTE_LEADER_CP_COST = 0.0
 NDefines.NMilitary.FIELD_MARSHAL_ARMY_BONUS_RATIO = 1
+NDefines.NMilitary.MIN_DIVISION_BRIGADE_HEIGHT = 5
 
 NDefines.NMilitary.BASE_DIVISION_BRIGADE_GROUP_COST = 0 	--Base cost to unlock a regiment slot,
 NDefines.NMilitary.BASE_DIVISION_BRIGADE_CHANGE_COST = 0	--Base cost to change a regiment column.

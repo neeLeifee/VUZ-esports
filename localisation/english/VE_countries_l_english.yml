@@ -1,0 +1,13 @@
+﻿l_english:
+ BLU_neutrality:0 "Blue Player"
+ BLU_democratic:0 "Blue Player"
+ BLU_fascism:0 "Blue Player"
+ BLU_communism:0 "Blue Player"
+ RED_neutrality:0 "Red Player"
+ RED_democratic:0 "Red Player"
+ RED_fascism:0 "Red Player"
+ RED_communism:0 "Red Player"
+ VER_neutrality:0 "Vendor"
+ RED_democratic:0 "Vendor"
+ RED_fascism:0 "Vendor"
+ RED_communism:0 "Vendor"

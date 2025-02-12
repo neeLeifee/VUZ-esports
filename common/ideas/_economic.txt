@@ -13,7 +13,7 @@ ideas = {
 			removal_cost = -1
 		
 			modifier = {
-				consumer_goods_factor = 0.50
+				consumer_goods_expected_value = 0.50
 				production_speed_industrial_complex_factor = -0.5
 				production_speed_arms_factory_factor = -0.5
 				production_speed_dockyard_factor = -0.5
@@ -47,7 +47,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				consumer_goods_factor = 0.4
+				consumer_goods_expected_value = 0.4
 				production_speed_industrial_complex_factor = -0.4
 				production_speed_arms_factory_factor = -0.4
 				production_speed_dockyard_factor = -0.4
@@ -78,7 +78,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				consumer_goods_factor = 0.35
+				consumer_goods_expected_value = 0.35
 				production_speed_industrial_complex_factor = -0.3
 				production_speed_arms_factory_factor = -0.3
 				conversion_cost_civ_to_mil_factor= 0.3
@@ -103,7 +103,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				consumer_goods_factor = 0.3
+				consumer_goods_expected_value = 0.3
 				production_speed_industrial_complex_factor = -0.1
 				production_speed_arms_factory_factor = -0.1
 				fuel_gain_factor = -0.25
@@ -138,7 +138,7 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-				consumer_goods_factor = 0.25
+				consumer_goods_expected_value = 0.25
 				production_speed_arms_factory_factor = 0.1
 				conversion_cost_civ_to_mil_factor= -0.1
 				conversion_cost_mil_to_civ_factor = -0.1
@@ -158,59 +158,27 @@ ideas = {
 		}
 		
 		war_economy = {
-			
-			
-			available = {
-				has_war_support > 0.5
-				OR = {
-					has_government = fascism
-					has_government = communism
-					custom_trigger_tooltip = { tooltip = or_clarification_tooltip always = no }
-					AND = {
-						has_war = yes
-						any_enemy_country = {
-							ic_ratio = { 
-								tag = ROOT 
-								ratio > 0.4
-							}
-						}
-					}
-				}
 
+			available = {
+				has_war = yes
 			}
 		
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
-				consumer_goods_factor = 0.2
-				production_speed_arms_factory_factor = 0.2
+				consumer_goods_expected_value = 0.15
+				production_speed_arms_factory_factor = 0.25
 				conversion_cost_civ_to_mil_factor= -0.2
 				conversion_cost_mil_to_civ_factor = -0.2
 			}
 			
 			cancel_if_invalid = no
-			ai_will_do = {
-   				factor = 5
-
-				modifier = {
-					#High prio on production
-					factor = 20
-					manpower_per_military_factory >  1000
-				}
-				
-				modifier = {
-					add = 1800
-					
-					# revert from closed_economy if we have large allies
-					has_idea = closed_economy
-					has_large_ally_not_pick_closed_economy = yes
-				}
-   			}
 		}
 		
 		tot_economic_mobilisation = {
 			
+			visible = { hidden_trigger = { always = no } }
 			
 			available = {
 				has_war = yes
@@ -223,38 +191,12 @@ ideas = {
 				}
 
 			}
-			ai_will_do = {
-   				factor = 1
-
-				modifier = {
-					factor = 25
-					#Prio this if nation has a lot of manpower compared to MIC
-					manpower_per_military_factory > 15000
-				}
-
-				modifier = {
-					#Block  unless nation has a lot of manpower
-					factor = 0
-					manpower_per_military_factory <  7000
-				}
-
-				
-				modifier = {
-					# never take this if we are on low conscription laws for safety
-					factor = 0
-					OR = {
-						has_idea = volunteer_only
-						has_idea = limited_conscription
-					}
-				}
-
-   			}
 			
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
-				consumer_goods_factor = 0.10
+				consumer_goods_expected_value = 0.10
 				conscription = -0.03
 				production_speed_arms_factory_factor = 0.3
 				conversion_cost_civ_to_mil_factor= -0.3
@@ -302,7 +244,6 @@ ideas = {
 
 			}
 			
-			default = yes
 			cost = 150
 			removal_cost = -1
 			
@@ -336,26 +277,6 @@ ideas = {
 		
 		limited_exports = {
 			available = {
-				OR = {
-					AND = {
-						has_government = democratic
-						has_war = yes
-						any_enemy_country = {
-							ic_ratio = { 
-								tag = ROOT 
-								ratio > 0.2
-							}
-						}
-					}
-					AND = {
-						NOT = { has_government = democratic }
-						OR = {
-							has_idea = partial_economic_mobilisation
-							has_idea = war_economy
-							has_idea = tot_economic_mobilisation
-						}
-					}
-				}
 			}
 		
 			cost = 150
@@ -372,49 +293,13 @@ ideas = {
 			}
 			
 			cancel_if_invalid = no
-
-			ai_will_do = {
-   				factor = 1
-
-   				modifier = {
-					add = -1
-					
-					is_major = no
-					is_in_faction = yes
-					has_war = yes
-				}
-
-				# minors not at war should want to get the bonuses from free trade
-				modifier = {
-					add = -1
-					
-					is_major = no
-					has_war = no
-				}
-				
-				modifier = {
-					add = 1500
-					
-					# revert from closed_economy if we have large allies
-					has_idea = closed_economy
-					has_large_ally_not_pick_closed_economy = yes
-				}
-   			}
 		}
-		
+
 		closed_economy = {
 			
 			
+			default = yes
 			available = {
-				has_war = yes
-				OR = { 
-					has_government = fascism
-					has_government = communism
-				}
-				OR = {
-					has_idea = war_economy
-					has_idea = tot_economic_mobilisation
-				}
 			}
 			
 			cost = 150
@@ -431,34 +316,6 @@ ideas = {
 			}
 			
 			cancel_if_invalid = no
-
-			ai_will_do = {
-   				factor = 1
-
-   				modifier = {
-					factor = 0
-					
-					is_major = no
-					is_in_faction = yes
-					has_war = yes
-				}
-
-				# minors not at war should want to get the bonuses from free trade
-				modifier = {
-					factor = 0
-					
-					is_major = no
-					has_war = no
-				}
-				
-				modifier = {
-					factor = 0
-					
-					# don't take if we have a reasonable sized ally
-					# since they will require our trades
-					has_large_ally_not_pick_closed_economy = yes
-				}
-   			}
 		}
 	}
 }

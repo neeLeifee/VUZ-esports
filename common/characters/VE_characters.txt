@@ -1,18 +1,49 @@
 characters={
 
-	ic_ENG_philip_kerr={
-		name=ENG_philip_kerr
-		portraits={
-			army={
-				small="GFX_idea_ENG_philip_kerr"
-			}
-		}
-		advisor={
-			slot = political_advisor
-			idea_token = ic_ENG_philip_kerr
-			traits  = {
-				silent_workhorse 
-			}
-		}		
-	}
+	#VE_commie_advisor={
+	#	name=VE_commie_advisor
+	#	portraits={
+	#		army={
+	#			small=GFX_idea_generic_communist_revolutionary
+	#		}
+	#	}
+	#	advisor={
+	#		slot = political_advisor
+	#		idea_token = VE_commie_advisor
+	#		traits  = {
+	#			communist_revolutionary
+	#		}
+	#	}
+	#}
+	#VE_fascist_advisor={
+	#	name=VE_fascist_advisor
+	#	portraits={
+	#		army={
+	#			small=GFX_idea_generic_fascist_demagogue
+	#		}
+	#	}
+	#	advisor={
+	#		slot = political_advisor
+	#		idea_token = VE_fascist_advisor
+	#		traits  = {
+	#			fascist_demagogue
+	#		}
+	#	}
+	#}
+	#VE_democr_advisor={
+	#	name=VE_democr_advisor
+	#	portraits={
+	#		army={
+	#			small=GFX_idea_generic_democratic_reformer
+	#		}
+	#	}
+	#	advisor={
+	#		slot = political_advisor
+	#		idea_token = VE_democr_advisor
+	#		traits  = {
+	#			democratic_reformer
+	#		}
+	#	}
+	#}
+
 }

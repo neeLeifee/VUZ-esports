@@ -1,28 +1,60 @@
 ideas = {
-
-	political_advisor = {
-		generic_silent_workhorse = {
-		
+	country = {
+		peace_training = {
 			allowed = {
-				NOT = {
-					# ignore if a (historical) minister already available
-					has_allowed_idea_with_traits = { 
-						idea = silent_workhorse 
-						limit = 1
-						ignore = generic_silent_workhorse
-					} 
-				}
+				always = no
 			}
-			available = {
+			cancel = {
+				has_war = yes
 			}
-			visible = {
+			removal_cost = -1
+			picture = generic_reserve_divisions
+			modifier = {
+				training_time_army_factor = -0.70
+				#training_time_factor = -0.70
+				minimum_training_level = -0.50
+				mobilization_speed = 1.0
+				air_training_xp_gain_factor = 10
+				experience_gain_navy_unit_factor = 10
+				attrition = -1.0
+				truck_attrition_factor = -1.0
 			}
-			traits = { silent_workhorse }
-			
-			ai_will_do = {
-				factor = 1
+		}
+		NoTradeback = {
+			allowed = {
+				always = no
 			}
-	
+			cancel = {
+				has_war = yes
+			}
+			removal_cost = -1
+			modifier = {
+				min_export = -1.0
+				production_lack_of_resource_penalty_factor = -1.0
+			}
+		}
+		DayOne_Efficiency = {
+			allowed = {  }
+			picture = generic_central_management
+			removal_cost = -1
+			modifier = {
+				production_factory_start_efficiency_factor = 0.40
+				production_factory_efficiency_gain_factor = 100.0
+			}
+		}
+		
+		FasterDevelopment = {
+			allowed = {  }
+			picture = GFX_idea_FasterDevelopment
+			removal_cost = -1
+			modifier = {
+			   conscription = 0.08
+			   research_speed_factor = 0.3
+			   industrial_capacity_factory = 0.15
+			   production_speed_buildings_factor = 0.10
+			   consumer_goods_expected_value = -0.025
+			   training_time_factor = -0.3 
+			}
 		}
 	}
 }

@@ -1,0 +1,25 @@
+technologies = {
+	stronghold_network_tech = {
+		allow = {
+			always = no
+		}
+
+		start_year = 1936
+		enable_building = {
+			building = naval_facility
+			level = 1
+		}
+		enable_building = {
+			building = nuclear_facility
+			level = 1
+		}
+		enable_building = {
+			building = air_facility
+			level = 1
+		}
+		enable_building = {
+			building = land_facility
+			level = 1
+		}
+	}
+}
