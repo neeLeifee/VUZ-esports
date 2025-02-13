@@ -13,10 +13,9 @@ focus_tree = {
 		y = 0
 		available_if_capitulated = yes
 		completion_reward = {
-			army_experience = 5
-			add_tech_bonus = {
-				name = land_doc_bonus
-				bonus = 0.5
+			army_experience = 25
+			add_doctrine_cost_reduction = {
+				cost_reduction = 0.5
 				uses = 1
 				category = land_doctrine
 			}
@@ -193,19 +192,17 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = army_effort
-			bypass = {
-					has_tech = motorised_infantry
-				}
-			available_if_capitulated = yes
-			completion_reward = {
-					add_tech_bonus = {
-							name = motorized_bonus
-							bonus = 0.75
-							technology = motorised_infantry
-						}
-				}
-
+		available_if_capitulated = yes
+		completion_reward = {
+			add_tech_bonus = {
+				name = motorized_bonus
+				ahead_reduction = 4
+				bonus = 0.75
+				category = motorized_equipment
+			}
+		}
 	}
+
 	focus = {
 		id = equipment_effort
 		icon = GFX_goal_generic_small_arms
@@ -238,16 +235,15 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = army_effort
-			available_if_capitulated = yes
-			completion_reward = {
-					army_experience = 5
-					add_tech_bonus = {
-							name = land_doc_bonus
-							bonus = 0.5
-							uses = 1
-							category = land_doctrine
-						}
-				}
+		available_if_capitulated = yes
+		completion_reward = {
+			army_experience = 25
+			add_doctrine_cost_reduction = {
+				cost_reduction = 0.5
+				uses = 1
+				category = land_doctrine
+			}
+		}
 
 	}
 	focus = {
@@ -260,17 +256,16 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = equipment_effort
-			available_if_capitulated = yes
-			completion_reward = {
-					add_tech_bonus = {
-							name = infantry_artillery_bonus
-							bonus = 0.5
-							uses = 1
-							category = infantry_weapons
-							category = artillery
-						}
-				}
-
+		available_if_capitulated = yes
+		completion_reward = {
+			add_tech_bonus = {
+				name = infantry_artillery_bonus
+				bonus = 0.5
+				uses = 1
+				category = infantry_weapons
+				category = artillery
+			}
+		}
 	}
 	focus = {
 		id = mechanization_effort
@@ -282,17 +277,16 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = motorization_effort
-			available_if_capitulated = yes
-			completion_reward = {
-					add_tech_bonus = {
-							name = motorized_bonus
-							ahead_reduction = 0.5
-							uses = 1
-							category = motorized_equipment
-						}
-				}
-
+		available_if_capitulated = yes
+		completion_reward = {
+			add_tech_bonus = {
+				name = mechanization_effort
+				bonus = 0.5
+				category = armor
+			}
+		}
 	}
+
 	focus = {
 		id = doctrine_effort_2
 		icon = GFX_goal_generic_army_doctrines
@@ -303,16 +297,15 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = doctrine_effort
-			available_if_capitulated = yes
-			completion_reward = {
-					army_experience = 5
-					add_tech_bonus = {
-							name = land_doc_bonus
-							bonus = 0.5
-							uses = 1
-							category = land_doctrine
-						}
-				}
+		available_if_capitulated = yes
+		completion_reward = {
+			army_experience = 25
+			add_doctrine_cost_reduction = {
+				cost_reduction = 0.5
+				uses = 2
+				category = land_doctrine
+			}
+		}
 
 	}
 	focus = {
@@ -612,20 +605,17 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = political_effort
-			available = {
-					OR = {
-							has_government = fascism
-							has_government = communism
-							has_government = neutrality
-						}
-				}
-			available_if_capitulated = yes
-			ai_will_do = {
-					factor = 5
-				}
-			completion_reward = {
-					add_ideas = collectivist_ethos_focus
-				}
+		available = {
+				OR = {
+						has_government = fascism
+						has_government = communism
+						has_government = neutrality
+					}
+			}
+		available_if_capitulated = yes
+		completion_reward = {
+			#add_ideas = fascismRize
+		}
 
 	}
 	focus = {
@@ -641,19 +631,10 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = collectivist_ethos
-			available = {
-					OR = {
-							has_government = fascism
-							has_government = neutrality
-						}
-				}
-			available_if_capitulated = yes
-			ai_will_do = {
-					factor = 5
-				}
-			completion_reward = {
-					add_ideas = nationalism
-				}
+		available_if_capitulated = yes
+		completion_reward = {
+			add_ideas = fascismRize
+		}
 
 	}
 	focus = {
@@ -669,27 +650,9 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = collectivist_ethos
-			available = {
-					if = {
-							limit = {
-									original_tag = CHI
-								}
-							has_government = communism
-							else = {
-									OR = {
-											has_government = communism
-											has_government = neutrality
-										}
-								}
-						}
-				}
-			available_if_capitulated = yes
-			ai_will_do = {
-					factor = 5
-				}
-			completion_reward = {
-					add_ideas = internationalism
-				}
+		completion_reward = {
+			add_ideas = commieRize
+		}
 
 	}
 	focus = {

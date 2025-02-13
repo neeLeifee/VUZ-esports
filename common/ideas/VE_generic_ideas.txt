@@ -10,8 +10,7 @@ ideas = {
 			removal_cost = -1
 			picture = generic_reserve_divisions
 			modifier = {
-				training_time_army_factor = -0.70
-				#training_time_factor = -0.70
+				training_time_army_factor = -0.5
 				minimum_training_level = -0.50
 				mobilization_speed = 1.0
 				air_training_xp_gain_factor = 10
@@ -48,12 +47,14 @@ ideas = {
 			picture = GFX_idea_FasterDevelopment
 			removal_cost = -1
 			modifier = {
-			   conscription = 0.08
-			   research_speed_factor = 0.3
-			   industrial_capacity_factory = 0.15
-			   production_speed_buildings_factor = 0.10
-			   consumer_goods_expected_value = -0.025
-			   training_time_factor = -0.3 
+				conscription = 0.08
+				training_time_factor = -0.3 
+				research_speed_factor = 0.15
+				industrial_capacity_factory = 0.15
+				production_speed_buildings_factor = 0.10
+				consumer_goods_expected_value = -0.025
+				production_factory_efficiency_gain_factor = 0.2
+				production_factory_max_efficiency_factor = 0.1
 			}
 		}
 	}

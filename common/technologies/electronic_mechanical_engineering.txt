@@ -60,7 +60,6 @@ technologies = {
 		}
 		
 		enable_equipment_modules = { 
-			tank_radio_1
 			radio_navigation_1
 		}
 
@@ -138,7 +137,6 @@ technologies = {
 		start_year = 1938
 		enable_equipment_modules = { 
 			ship_radar_1
-			tank_radio_2
 			radio_navigation_2
 		}
 		folder = {
@@ -229,7 +227,6 @@ technologies = {
 		enable_equipment_modules = { 
 			ship_radar_3
 			air_air_radar_1
-			tank_radio_3
 		}
 
 		static_anti_air_hit_chance_factor = 0.2

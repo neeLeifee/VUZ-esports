@@ -1,4 +1,51 @@
 technologies = {
+	bba_early_transport_plane = {}
+	bba_improved_transport_plane = {}
+	bba_strategic_airlifter = {}
+	modern_small_airframe = {}
+	supersonic_small_airframe = {}
+	modern_medium_airframe = {}
+	modern_large_airframe = {}
+
+	reinforced_wings_mothership = {}
+	miniature_fighters = {}
+	aerial_hangars = {}
+	sp_centrifugal_jet_tech = {}
+
+	early_bombs = {}
+	heavy_bombs = {}
+	armor_piercing_bombs = {}
+	photo_reconnaisance = {}
+	air_torpedoe_1 = {}
+	air_torpedoe_2 = {}
+	air_torpedoe_3 = {}
+	aa_lmg = {}
+	survivability_studies = {}
+	aa_hmg = {}
+	aa_cannon_1 = {}
+	aa_cannon_2 = {}
+	aa_cannon_3 = {}
+	engines_1 = {}
+	engines_2 = {}
+	engines_3 = {}
+	engines_4 = {}
+	range_improvements = {}
+	aircraft_construction = {}
+
+	sp_shock_hardening_techniques = {}
+	sp_variable_time_fuze_shells = {}
+	sp_artillery_purpose_built_gun_motor_carriages_tech = {}
+	sp_artillery_rocket_assisted_projectiles_tech = {}
+
+	amphibious_tank_chassis = {}
+	amphibious_drive = {}
+	super_heavy_tank_chassis = {}
+	main_battle_tank_chassis = {}
+
+
+	fleet_in_being = {}
+	trade_interdiction = {}
+	base_strike = {}
 	stronghold_network_tech = {
 		allow = {
 			always = no
@@ -19,6 +66,10 @@ technologies = {
 		}
 		enable_building = {
 			building = land_facility
+			level = 1
+		}
+		enable_building = {
+			building = coastal_bunker
 			level = 1
 		}
 	}

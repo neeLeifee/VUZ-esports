@@ -1,0 +1,13 @@
+ideas = {
+	country = {
+		neutralRize = {
+			allowed = {  }
+			picture = GFX_idea_fascismRize
+			removal_cost = -1
+			modifier = {
+				#
+			}
+		}
+
+	}
+}

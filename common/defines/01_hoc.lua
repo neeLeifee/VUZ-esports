@@ -14,6 +14,7 @@ NDefines.NCountry.MIN_SURRENDER_LIMIT = 0.1							-- Minimum non-forced surrende
 NDefines.NCountry.ARMY_COUNT_DAILY_DECREASE_FOR_TRAINING_XP = -0.1 -- number of armies that is used in training xp calculates daily linearly approaches this number (if real number is lower)
 NDefines.NCountry.BASE_MOBILIZATION_SPEED = 100
 NDefines.NCountry.BASE_MAX_COMMAND_POWER = 100
+NDefines.NCountry.SCORCHED_EARTH_STATE_COST = 999
 NDefines.NBuildings.MAX_SHARED_SLOTS = 50
 NDefines.NCharacter.DEFAULT_PP_COST_FOR_MILITARY_ADVISOR = 100
 NDefines.NCharacter.DEFAULT_PP_COST_FOR_POLITICAL_ADVISOR = 100
