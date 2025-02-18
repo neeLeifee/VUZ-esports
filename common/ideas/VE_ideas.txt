@@ -1,0 +1,163 @@
+ideas = {
+	country = {
+		peace_training = {
+			allowed = {
+				always = no
+			}
+			cancel = {
+				has_war = yes
+			}
+			removal_cost = -1
+			picture = generic_reserve_divisions
+			modifier = {
+				training_time_army_factor = -0.5
+				minimum_training_level = -0.50
+				mobilization_speed = 1.0
+				air_training_xp_gain_factor = 10
+				experience_gain_navy_unit_factor = 10
+				attrition = -1.0
+				truck_attrition_factor = -1.0
+			}
+		}
+		NoTradeback = {
+			allowed = {
+				always = no
+			}
+			cancel = {
+				has_war = yes
+			}
+			removal_cost = -1
+			modifier = {
+				min_export = -1.0
+				production_lack_of_resource_penalty_factor = -1.0
+			}
+		}
+		DayOne_Efficiency = {
+			allowed = {  }
+			picture = generic_central_management
+			removal_cost = -1
+			modifier = {
+				production_factory_start_efficiency_factor = 0.40
+				production_factory_efficiency_gain_factor = 100.0
+			}
+		}
+		
+		FasterDevelopment = {
+			allowed = {  }
+			picture = GFX_idea_FasterDevelopment
+			removal_cost = -1
+			modifier = {
+				conscription = 0.08
+				training_time_factor = -0.3 
+				research_speed_factor = 0.15
+				industrial_capacity_factory = 0.15
+				production_speed_buildings_factor = 0.10
+				consumer_goods_expected_value = -0.025
+				production_factory_efficiency_gain_factor = 0.2
+				production_factory_max_efficiency_factor = 0.1
+			}
+		}
+
+		collectevistIdea = {
+			allowed = {  }
+			picture = GFX_idea_collectevistIdea
+			removal_cost = -1
+			modifier = {
+				neutrality_drift = -0.05
+			}
+		}
+
+		commieRize = {
+			allowed = {  }
+			picture = GFX_idea_commieRize
+			removal_cost = -1
+			modifier = {
+				communism_drift = 0.2
+				neutrality_drift = -0.1
+			}
+		}
+		commieRizeEnemy1 = {
+			allowed = {  }
+			picture = GFX_idea_commieRizeEnemy
+			removal_cost = -1
+			modifier = {
+				stability_factor = -0.2
+			}
+		}
+		commieRizeEnemy2 = {
+			allowed = {  }
+			picture = GFX_idea_commieRizeEnemy
+			removal_cost = -1
+			modifier = {
+				stability_factor = -0.15
+			}
+		}
+		commieRizeEnemy3 = {
+			allowed = {  }
+			picture = GFX_idea_commieRizeEnemy
+			removal_cost = -1
+			modifier = {
+				stability_factor = -0.1
+			}
+		}
+		commieRizeEnemy4 = {
+			allowed = {  }
+			picture = GFX_idea_commieRizeEnemy
+			removal_cost = -1
+			modifier = {
+				stability_factor = -0.05
+			}
+		}
+		
+		democraticRize = {
+			allowed = {  }
+			picture = GFX_idea_democraticRize
+			removal_cost = -1
+			modifier = {
+				democratic_drift = 0.2
+				neutrality_drift = -0.1
+			}
+		}
+
+		fascismRize1 = {
+			allowed = {  }
+			picture = GFX_idea_fascismRize
+			removal_cost = -1
+			modifier = {
+				fascism_drift = 0.2
+				neutrality_drift = -0.1
+			}
+		}
+		fascismRize2 = {
+			allowed = {  }
+			picture = GFX_idea_fascismRize
+			removal_cost = -1
+			modifier = {
+				fascism_drift = 0.2
+				neutrality_drift = -0.1
+				political_power_factor = 0.15
+			}
+		}
+		fascismRize3 = {
+			allowed = {  }
+			picture = GFX_idea_fascismRize
+			removal_cost = -1
+			modifier = {
+				fascism_drift = 0.2
+				neutrality_drift = -0.1
+				political_power_factor = 0.15
+				conscription = 0.04
+			}
+		}
+		
+		neutralRize = {
+			allowed = {  }
+			picture = GFX_idea_neutralRize
+			removal_cost = -1
+			modifier = {
+				#
+			}
+		}
+
+	}
+}
