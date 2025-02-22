@@ -15,9 +15,12 @@ NDefines.NCountry.ARMY_COUNT_DAILY_DECREASE_FOR_TRAINING_XP = -0.1 -- number of 
 NDefines.NCountry.BASE_MOBILIZATION_SPEED = 100
 NDefines.NCountry.BASE_MAX_COMMAND_POWER = 100
 NDefines.NCountry.SCORCHED_EARTH_STATE_COST = 999
-NDefines.NBuildings.MAX_SHARED_SLOTS = 50
+
 NDefines.NCharacter.DEFAULT_PP_COST_FOR_MILITARY_ADVISOR = 100
 NDefines.NCharacter.DEFAULT_PP_COST_FOR_POLITICAL_ADVISOR = 100
+
+NDefines.NBuildings.MAX_SHARED_SLOTS = 50
+NDefines.NBuildings.DESTRUCTION_COOLDOWN_IN_WAR = 365
 
 NDefines.NFocus.FOCUS_POINT_DAYS = 5
 
@@ -99,7 +102,8 @@ NDefines.NAI.DIPLOMACY_FACTION_GLOBAL_TENSION_FACTOR = 0.9-- How much the AI tak
 NDefines.NAI.DIPLOMACY_FACTION_WAR_RELUCTANCE = -100	-- Penalty to desire to enter a faction with a country that we are not fighting wars together with.
 NDefines.NAI.PRODUCTION_EQUIPMENT_SURPLUS_FACTOR = 0.25	-- Base value for how much of currently used equipment the AI will at least strive to have in stock
 
-NDefines.NOperatives.BOOST_IDEOLOGY_DRIFT_STACKING_FACTOR = 0.1	-- multiplied to the drift of an operative for each operative after the first one, with the greatest drift. So if we have the following drift values [ 0.1, 0.3, 0.2 ], the factor is applied twice for the lowest value and once for the 2nd lowest one as such : [ 0.3, 0.2 * D, 0.1 * D * D ] and then the result is summed up to give the final drift value.
+
+NDefines.NOperatives.AGENCY_CREATION_FACTORIES = 99999
 
 
 -- Spot Optimizations

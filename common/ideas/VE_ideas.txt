@@ -67,7 +67,7 @@ ideas = {
 			}
 		}
 
-		commieRize = {
+		commieRize1 = {
 			allowed = {  }
 			picture = GFX_idea_commieRize
 			removal_cost = -1
@@ -76,12 +76,23 @@ ideas = {
 				neutrality_drift = -0.1
 			}
 		}
+		commieRize2 = {
+			allowed = {  }
+			picture = GFX_idea_commieRize
+			removal_cost = -1
+			modifier = {
+				communism_drift = 0.2
+				neutrality_drift = -0.1
+				army_attack_factor = 0.075
+			}
+		}
 		commieRizeEnemy1 = {
 			allowed = {  }
 			picture = GFX_idea_commieRizeEnemy
 			removal_cost = -1
 			modifier = {
 				stability_factor = -0.2
+				army_org_factor = -0.05
 			}
 		}
 		commieRizeEnemy2 = {
@@ -90,6 +101,7 @@ ideas = {
 			removal_cost = -1
 			modifier = {
 				stability_factor = -0.15
+				army_org_factor = -0.05
 			}
 		}
 		commieRizeEnemy3 = {
@@ -98,6 +110,7 @@ ideas = {
 			removal_cost = -1
 			modifier = {
 				stability_factor = -0.1
+				army_org_factor = -0.05
 			}
 		}
 		commieRizeEnemy4 = {
@@ -106,16 +119,7 @@ ideas = {
 			removal_cost = -1
 			modifier = {
 				stability_factor = -0.05
-			}
-		}
-		
-		democraticRize = {
-			allowed = {  }
-			picture = GFX_idea_democraticRize
-			removal_cost = -1
-			modifier = {
-				democratic_drift = 0.2
-				neutrality_drift = -0.1
+				army_org_factor = -0.05
 			}
 		}
 
@@ -149,15 +153,89 @@ ideas = {
 				conscription = 0.04
 			}
 		}
-		
-		neutralRize = {
+
+		neutralRize1 = {
 			allowed = {  }
 			picture = GFX_idea_neutralRize
 			removal_cost = -1
 			modifier = {
-				#
+				production_speed_industrial_complex_factor = 0.25
+				industrial_capacity_factory = 0.075
 			}
 		}
+		neutralRize2 = {
+			allowed = {  }
+			picture = GFX_idea_neutralRize
+			removal_cost = -1
+			modifier = {
+				production_speed_industrial_complex_factor = 0.25
+				industrial_capacity_factory = 0.075
+
+				stability_factor = 0.1
+				war_support_weekly = 0.001
+			}
+		}
+		neutralRize3 = {
+			allowed = {  }
+			picture = GFX_idea_neutralRize
+			removal_cost = -1
+			modifier = {
+				army_attack_factor = -0.15
+				army_core_attack_factor = 0.2
+				army_defence_factor= -0.15
+				army_core_defence_factor= 0.2
+
+				production_speed_industrial_complex_factor = 0.25
+				industrial_capacity_factory = 0.075
+
+				stability_factor = 0.1
+				war_support_weekly = 0.001
+			}
+		}
+		
+		democraticRize1 = {
+			allowed = {  }
+			picture = GFX_idea_democraticRize
+			removal_cost = -1
+			modifier = {
+				democratic_drift = 0.4
+				neutrality_drift = -0.2
+			}
+		}
+		democraticRize2 = {
+			allowed = {  }
+			picture = GFX_idea_democraticRize
+			removal_cost = -1
+			modifier = {
+				democratic_drift = 0.4
+				neutrality_drift = -0.2
+
+				production_speed_arms_factory_factor = 0.075
+			}
+		}
+		democraticRize3 = {
+			allowed = {  }
+			picture = GFX_idea_democraticRize
+			removal_cost = -1
+			modifier = {
+				democratic_drift = 0.4
+				neutrality_drift = -0.2
+				
+				production_speed_arms_factory_factor = 0.075
+
+				research_speed_factor = 0.1
+			}
+		}
+		
+		arsenalOfDemocracy = {
+			allowed = {  }
+			picture = GFX_idea_democraticRize
+			removal_cost = -1
+			modifier = {
+				army_attack_factor = 0.1
+			}
+		}
+
 
 	}
 }
