@@ -115,7 +115,7 @@ NDefines.NGame.LAG_DAYS_FOR_PAUSE = 60										-- Days of client lag for pause 
 -- Time
 NDefines.NTechnology.BASE_TECH_COST = 75
 NDefines.NGame.END_DATE = "9999.1.1.1"                                      -- Time the end
-NDefines.NGame.GAME_SPEED_SECONDS = { 6000.0, 0.29, 0.21, 0.10, 0.06 }	-- took from FFU2
+NDefines.NGame.GAME_SPEED_SECONDS = { 6000.0, 0.29, 0.21, 0.10, 0.005 }	-- took from FFU2
 --NDefines.NGame.GAME_SPEED_SECONDS = { 0.2, 0.10, 0.05, 0.005, 0.0000001 }	--what's been prev FFU2
 
 ---- AI
