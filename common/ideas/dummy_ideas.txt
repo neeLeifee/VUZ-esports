@@ -1,0 +1,12 @@
+ideas = {
+	country = {
+		BUL_army_restrictions_aat = {
+			allowed = {
+				always = no
+			}
+			removal_cost = -1
+			picture = generic_reserve_divisions
+			modifier = {}
+		}
+	}
+}

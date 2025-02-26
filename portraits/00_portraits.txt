@@ -354,8 +354,8 @@ BLU = {
 		male = {
 			"gfx/leaders/BLU/Portrait_BLU_Generic_land_1.tga"
 			"gfx/leaders/BLU/Portrait_BLU_Generic_land_2.tga"
-			"gfx/leaders/BLU/Portrait_BLU_Generic_land_4.tga"
 			"gfx/leaders/BLU/Portrait_BLU_Generic_land_3.tga"
+			"gfx/leaders/BLU/Portrait_BLU_Generic_land_4.tga"
 			"gfx/leaders/BLU/Portrait_BLU_Generic_land_5.tga"
 			"gfx/leaders/BLU/Portrait_BLU_Generic_land_6.tga"
 			"gfx/leaders/BLU/Portrait_BLU_Generic_land_7.tga"
