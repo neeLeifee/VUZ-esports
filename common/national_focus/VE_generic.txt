@@ -1,5 +1,5 @@
 focus_tree = {
-	id = generic_focus
+	id = VE_generic_focus
 	country = {
 		factor = 100
 	}
