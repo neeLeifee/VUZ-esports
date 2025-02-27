@@ -1,3 +1,74 @@
+remove_commi_intervention = {
+	
+	hunt_down_commies = {
+
+		icon = generic_industry
+
+		available = {}
+
+		visible = {
+			ROOT = {
+				OR = {
+					has_idea = commieRizeEnemy1
+					has_idea = commieRizeEnemy2
+					has_idea = commieRizeEnemy3
+					has_idea = commieRizeEnemy4
+				}
+			}
+		}
+
+		fire_only_once = no
+
+		days_remove = 180
+
+		cost = 25
+
+		remove_effect = {
+			if = {
+				limit = {
+					ROOT = {
+						has_idea = commieRizeEnemy1
+					}
+				}
+				swap_ideas = {
+					remove_idea = commieRizeEnemy1
+					add_idea = commieRizeEnemy2
+				}
+			}
+			else_if = {
+				limit = {
+					ROOT = {
+						has_idea = commieRizeEnemy2
+					}
+				}
+				swap_ideas = {
+					remove_idea = commieRizeEnemy2
+					add_idea = commieRizeEnemy3
+				}
+			}
+			else_if = {
+				limit = {
+					ROOT = {
+						has_idea = commieRizeEnemy3
+					}
+				}
+				swap_ideas = {
+					remove_idea = commieRizeEnemy3
+					add_idea = commieRizeEnemy4
+				}
+			}
+			else_if = {
+				limit = {
+					ROOT = {
+						has_idea = commieRizeEnemy4
+					}
+				}
+				remove_ideas = commieRizeEnemy4
+			}
+		}
+	}
+}
+
 political_actions = {
 
 	

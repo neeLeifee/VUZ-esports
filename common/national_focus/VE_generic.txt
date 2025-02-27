@@ -47,7 +47,7 @@ focus_tree = {
 					}
 				}
 			}
-			if = {
+			else_if = {
 				limit = {
 					ROOT = {
 						tag = RED
@@ -123,7 +123,7 @@ focus_tree = {
 					}
 				}
 			}
-			if = {
+			else_if = {
 				limit = {
 					ROOT = {
 						tag = RED
@@ -733,9 +733,10 @@ focus_tree = {
 				}
 				RED = {
 					add_ideas = commieRizeEnemy1
+					unlock_decision_tooltip = hunt_down_commies
 				}
 			}
-			if = {
+			else_if = {
 				limit = {
 					ROOT = {
 						tag = RED
@@ -743,6 +744,7 @@ focus_tree = {
 				}
 				BLU = {
 					add_ideas = commieRizeEnemy1
+					unlock_decision_tooltip = hunt_down_commies
 				}
 			}
 		}

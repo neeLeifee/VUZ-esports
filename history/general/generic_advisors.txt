@@ -1,7 +1,4 @@
-# For minor countries where advisors are not defined
-# Generate them from a generic template
-
-# Political advisors
+# political dudes
 every_possible_country = {
 	generate_character = {
 		token_base = generic_communist_revolutionary # token will be TAG_token_base
@@ -49,10 +46,20 @@ every_possible_country = {
 			army = { small = GFX_idea_generic_fascist_demagogue }
 		}
 	}
+	generate_character = {
+		token_base = generic_VE_dictator # token will be TAG_token_base
+		advisor = {
+			slot = political_advisor
+			traits = { VE_dictator }
+		}
+		portraits = { 
+			army = { small = GFX_idea_generic_captain_of_industry }
+		}
+	}	
 }
 
 
-
+# industrial dudes
 every_possible_country = {
 	generate_character = {
 		token_base = generic_captain_of_industry # token will be TAG_token_base
@@ -75,30 +82,20 @@ every_possible_country = {
 		}
 	}
 	generate_character = {
-		token_base = generic_captain_of_industry1 # token will be TAG_token_base
+		token_base = generic_VE_popular_queen # token will be TAG_token_base
 		advisor = {
 			slot = political_advisor
-			traits = { dictator }
+			traits = { VE_popular_queen }
 		}
 		portraits = { 
 			army = { small = GFX_idea_generic_captain_of_industry }
 		}
 	}
 	generate_character = {
-		token_base = generic_captain_of_industry6 # token will be TAG_token_base
+		token_base = generic_VE_prime_minister_peker #49 token will be TAG_token_base
 		advisor = {
 			slot = political_advisor
-			traits = { popular_queen }
-		}
-		portraits = { 
-			army = { small = GFX_idea_generic_captain_of_industry }
-		}
-	}
-	generate_character = {
-		token_base = generic_captain_of_industry49 #49 token will be TAG_token_base
-		advisor = {
-			slot = political_advisor
-			traits = { prime_minister_peker }
+			traits = { VE_prime_minister_peker }
 		}
 		portraits = { 
 			army = { small = GFX_idea_generic_captain_of_industry }
@@ -106,7 +103,7 @@ every_possible_country = {
 	}
 }
 
-
+# army dudes
 every_possible_country = {
 	generate_character = {
 		token_base = generic_army_chief_off # token will be TAG_token_base

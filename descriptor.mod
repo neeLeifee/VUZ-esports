@@ -10,5 +10,5 @@ version="1.15*"
 tags={
 	"Balance"
 }
-name="VUZ esports [LOCAL]"
+name="[LOCAL] VUZ esports"
 supported_version="1.15.*"

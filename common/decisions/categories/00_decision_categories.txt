@@ -1,3 +1,7 @@
+remove_commi_intervention = {
+	icon = generic_propaganda
+}
+
 propaganda_efforts = {
 	icon = generic_propaganda
 
