@@ -1,3 +1,5 @@
+replace_path="integrated_dlc/dlc018_together_for_victory/music"
+
 replace_path="common/bop"
 replace_path="common/countries"
 replace_path="common/country_tags"
