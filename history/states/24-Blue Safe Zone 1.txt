@@ -2,7 +2,14 @@ state={
 	id=24
 	name="STATE_24"
 	state_category = megalopolis
-        history={
+	
+	resources={
+		aluminium = 50
+		steel = 15
+		rubber = 10
+	}
+
+	history={
 		owner = BLU
 		buildings = {
 			infrastructure = 3

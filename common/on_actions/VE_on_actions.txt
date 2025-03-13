@@ -26,6 +26,17 @@ on_actions = {
 				add_command_power = 80
 			}
 
+			
+			every_country = {
+				limit = {
+					is_ai = yes
+				}
+				add_ideas = {
+					ai_limiter
+					free_trade
+				}
+			}
+
 		}
 	}
 }

@@ -41,6 +41,25 @@ ideas = {
 				production_factory_efficiency_gain_factor = 100.0
 			}
 		}
+		ai_limiter = {
+			removal_cost = -1
+			picture = generic_goods_red_bonus
+			modifier = {
+				ai_desired_divisions_factor = -300
+				ai_focus_defense_factor = 300
+				ai_call_ally_desire_factor = 1000000
+				ai_join_ally_desire_factor = 1000000
+
+
+				consumer_goods_expected_value = 1.50
+				political_power_gain = -4.0
+				industrial_capacity_factory = -1.0
+				industrial_capacity_dockyard = -3.0
+				production_factory_max_efficiency_factor = -1.0
+				conscription = -1.0
+				min_export = 0.2
+			}
+		}
 		
 		FasterDevelopment = {
 			allowed = {  }

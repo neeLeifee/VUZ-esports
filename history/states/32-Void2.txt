@@ -3,21 +3,22 @@ state={
 	name="STATE_32"
 	state_category = megalopolis
 	impassable = yes
+	
+	resources={
+		chromium=40
+		aluminium=160
+		steel=160
+		tungsten=70
+		oil=50
+		rubber=70
+	}
+
 	history={
 		owner = VER
 		victory_points = {
 			108 10
 		}
-	   
-}
-	resources={
-		chromium=40
-		aluminium=60
-		steel=60
-		tungsten=50
-		oil=50
-		rubber=50
-		}
+	}
 	provinces={
 		108 
 	}
