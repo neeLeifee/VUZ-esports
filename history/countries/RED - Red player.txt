@@ -13,6 +13,7 @@ set_technology = {
 	motorised_infantry = 1
 
 	tech_support = 1
+	basic_train = 1
 
 	gwtank_chassis = 1
 	armor_tech_1 = 1
@@ -93,4 +94,10 @@ create_country_leader = {
 	traits = {
 		#
 	}
+}
+
+add_equipment_to_stockpile = {
+	type = train_equipment_1
+	amount = 100
+	producer = RED
 }
