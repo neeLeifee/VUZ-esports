@@ -19,7 +19,7 @@ remove_commi_intervention = {
 
 		fire_only_once = no
 
-		days_remove = 180
+		days_remove = 90
 
 		cost = 25
 

@@ -121,34 +121,34 @@ ideas = {
 			picture = ger_the_great_red_menace
 			removal_cost = -1
 			modifier = {
-				stability_factor = -0.2
+				stability_factor = -0.15
 				army_org_factor = -0.05
 			}
 		}
 		commieRizeEnemy2 = {
 			allowed = {  }
-			picture = generic_build_infrastructure
+			picture = ger_the_great_red_menace
 			removal_cost = -1
 			modifier = {
-				stability_factor = -0.15
+				stability_factor = -0.1125
 				army_org_factor = -0.05
 			}
 		}
 		commieRizeEnemy3 = {
 			allowed = {  }
-			picture = generic_build_infrastructure
+			picture = ger_the_great_red_menace
 			removal_cost = -1
 			modifier = {
-				stability_factor = -0.1
+				stability_factor = -0.075
 				army_org_factor = -0.05
 			}
 		}
 		commieRizeEnemy4 = {
 			allowed = {  }
-			picture = generic_build_infrastructure
+			picture = ger_the_great_red_menace
 			removal_cost = -1
 			modifier = {
-				stability_factor = -0.05
+				stability_factor = -0.0375
 				army_org_factor = -0.05
 			}
 		}
