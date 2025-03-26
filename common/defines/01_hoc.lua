@@ -13,7 +13,8 @@ NDefines.NCountry.MAX_INTELLIGENCE_DIFFERENCE = 3.0					-- (Old Intel) Max diffe
 NDefines.NCountry.MIN_SURRENDER_LIMIT = 0.1							-- Minimum non-forced surrender limit. valid 0-1
 NDefines.NCountry.ARMY_COUNT_DAILY_DECREASE_FOR_TRAINING_XP = -0.1 -- number of armies that is used in training xp calculates daily linearly approaches this number (if real number is lower)
 NDefines.NCountry.BASE_MOBILIZATION_SPEED = 100
-NDefines.NCountry.BASE_MAX_COMMAND_POWER = 100
+NDefines.NCountry.BASE_MAX_COMMAND_POWER = 500
+NDefines.NCountry.BASE_COMMAND_POWER_GAIN = 5
 NDefines.NCountry.SCORCHED_EARTH_STATE_COST = 999
 
 NDefines.NCharacter.DEFAULT_PP_COST_FOR_MILITARY_ADVISOR = 100
@@ -70,9 +71,14 @@ NDefines.NResistance.INITIAL_GARRISON_STRENGTH = 0
 NDefines.NMilitary.MAX_ARMY_EXPERIENCE = 999
 NDefines.NMilitary.MAX_NAVY_EXPERIENCE = 999
 NDefines.NMilitary.MAX_AIR_EXPERIENCE = 999
-NDefines.NMilitary.PROMOTE_LEADER_CP_COST = 0.0
-NDefines.NMilitary.FIELD_MARSHAL_ARMY_BONUS_RATIO = 1
 NDefines.NMilitary.MIN_DIVISION_BRIGADE_HEIGHT = 5
+NDefines.NMilitary.PROMOTE_LEADER_CP_COST = 0.0
+
+NDefines.NMilitary.CORPS_COMMANDER_DIVISIONS_CAP = 0
+NDefines.NMilitary.FIELD_MARSHAL_DIVISIONS_CAP = 0
+NDefines.NMilitary.FIELD_MARSHAL_ARMIES_CAP = 0
+
+NDefines.NMilitary.FIELD_MARSHAL_ARMY_BONUS_RATIO = 1
 
 NDefines.NMilitary.BASE_DIVISION_BRIGADE_GROUP_COST = 0 	--Base cost to unlock a regiment slot,
 NDefines.NMilitary.BASE_DIVISION_BRIGADE_CHANGE_COST = 0	--Base cost to change a regiment column.
@@ -85,6 +91,8 @@ NDefines.NMilitary.NAVAL_EQUIPMENT_RAMP_COST = 0
 NDefines.NMilitary.AIR_EQUIPMENT_BASE_COST = 1
 NDefines.NMilitary.AIR_EQUIPMENT_RAMP_COST = 0
 
+--MIO
+NDefines.NIndustrialOrganisation.DESIGN_TEAM_CHANGE_XP_COST = 1
 
 -- NProduction
 NDefines.NProduction.EQUIPMENT_MODULE_ADD_XP_COST = 0.0				-- XP cost for adding a new equipment module in an empty slot when creating an equipment variant.

@@ -74,6 +74,17 @@ ideas = {
 				consumer_goods_expected_value = -0.025
 				production_factory_efficiency_gain_factor = 0.2
 				production_factory_max_efficiency_factor = 0.1
+
+				hidden_modifier = {
+					light_tank_chassis_design_cost_factor = -1
+					medium_tank_chassis_design_cost_factor = -1
+					heavy_tank_chassis_design_cost_factor = -1
+
+					small_plane_airframe_design_cost_factor = -1
+					medium_plane_airframe_design_cost_factor = -1
+					large_plane_airframe_design_cost_factor = -1
+				}
+
 			}
 		}
 
