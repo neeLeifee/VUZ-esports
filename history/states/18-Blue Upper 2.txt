@@ -5,11 +5,11 @@ state={
 	state_category = megalopolis
         resources={
 		chromium = 2
-		aluminium = 3
-		steel = 7
+		aluminium = 15
+		steel = 22
 		tungsten = 3
 		oil = 2
-		rubber = 1
+		rubber = 3
 	}
 
 	history={

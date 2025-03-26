@@ -1,8 +1,19 @@
 focus_tree = {
 	id = VE_generic_focus
+	
 	country = {
-		factor = 100
+		factor = 0
+		
+		modifier = {
+			add = 50
+			tag = BLU
+		}
+		modifier = {
+			add = 100
+			tag = RED
+		}
 	}
+
 	default = yes
 
 	focus = {
