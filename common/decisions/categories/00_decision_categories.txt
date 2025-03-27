@@ -1,3 +1,11 @@
+girls_category = {
+	priority = -100
+	visible_when_empty = no
+	visible = {
+		#
+	}
+}
+
 remove_commi_intervention = {
 	icon = generic_propaganda
 }

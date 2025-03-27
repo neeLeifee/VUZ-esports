@@ -1,0 +1,62 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_girl1"
+		texturefile = "gfx/interface/girls/girl1.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl2"
+		texturefile = "gfx/interface/girls/girl2.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl3"
+		texturefile = "gfx/interface/girls/girl3.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl4"
+		texturefile = "gfx/interface/girls/girl4.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl5"
+		texturefile = "gfx/interface/girls/girl5.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl6"
+		texturefile = "gfx/interface/girls/girl6.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl7"
+		texturefile = "gfx/interface/girls/girl7.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl8"
+		texturefile = "gfx/interface/girls/girl8.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl9"
+		texturefile = "gfx/interface/girls/girl9.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl10"
+		texturefile = "gfx/interface/girls/girl10.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl11"
+		texturefile = "gfx/interface/girls/girl11.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl12"
+		texturefile = "gfx/interface/girls/girl12.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl13"
+		texturefile = "gfx/interface/girls/girl13.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl14"
+		texturefile = "gfx/interface/girls/girl14.jpg"
+	}
+	spriteType = {
+		name = "GFX_girl15"
+		texturefile = "gfx/interface/girls/girl15.jpg"
+	}
+}

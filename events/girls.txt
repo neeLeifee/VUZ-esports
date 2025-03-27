@@ -1,0 +1,301 @@
+add_namespace = girlEvents
+
+news_event = {
+	id = girlEvents.1
+	title = ""
+	desc = ""
+	picture = GFX_girl1
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.2
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.15
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.2
+	title = ""
+	desc = ""
+	picture = GFX_girl2
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.3
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.1
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.3
+	title = ""
+	desc = ""
+	picture = GFX_girl3
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.4
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.2
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.4
+	title = ""
+	desc = ""
+	picture = GFX_girl4
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.5
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.3
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.5
+	title = ""
+	desc = ""
+	picture = GFX_girl5
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.6
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.4
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.6
+	title = ""
+	desc = ""
+	picture = GFX_girl6
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.7
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.5
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.7
+	title = ""
+	desc = ""
+	picture = GFX_girl7
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.8
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.6
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.8
+	title = ""
+	desc = ""
+	picture = GFX_girl8
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.9
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.7
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.9
+	title = ""
+	desc = ""
+	picture = GFX_girl9
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.10
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.8
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.10
+	title = ""
+	desc = ""
+	picture = GFX_girl10
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.11
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.9
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.11
+	title = ""
+	desc = ""
+	picture = GFX_girl11
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.12
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.10
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.12
+	title = ""
+	desc = ""
+	picture = GFX_girl12
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.13
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.11
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.13
+	title = ""
+	desc = ""
+	picture = GFX_girl13
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.14
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.12
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.14
+	title = ""
+	desc = ""
+	picture = GFX_girl14
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.15
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.13
+	}
+	option = {
+		name = "Close"
+	}
+}
+
+news_event = {
+	id = girlEvents.15
+	title = ""
+	desc = ""
+	picture = GFX_girl15
+	is_triggered_only = yes	
+	
+	option = { 	
+		name = "Next"
+		news_event = girlEvents.1
+	}
+	option = { 	
+		name = "Previous"
+		news_event = girlEvents.14
+	}
+	option = {
+		name = "Close"
+	}
+}

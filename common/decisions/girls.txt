@@ -1,0 +1,39 @@
+girls_category = {
+
+	girls_allow_select = {
+
+		#icon = generic_research
+		fire_only_once = yes
+
+		available = {
+			
+		}
+
+		visible = {
+			date > 1936.01.02
+			date < 1936.01.04
+		}
+
+		complete_effect = {
+			set_country_flag = allowed_girls
+		}
+	}
+
+	girls_start_show = {
+
+		#icon = generic_research
+
+		available = {
+			
+		}
+
+		visible = {
+			has_country_flag = allowed_girls
+		}
+
+		complete_effect = {
+			news_event = girlEvents.1
+		}
+	}
+
+}
