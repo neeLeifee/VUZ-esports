@@ -2,6 +2,13 @@ on_actions = {
 	on_startup = {
 		effect = {
 
+			VER = {
+				set_variable = {
+					var = days_till_war_var
+					value = 0
+				}
+			}
+
 			BLU = {
 				country_event = { id = VEevents.1 }
 			}
@@ -39,4 +46,13 @@ on_actions = {
 
 		}
 	}
+
+	on_daily_VER = {
+
+		effect = { 
+		    VER = { add_to_variable = { days_till_war_var = -1 } }
+		}
+
+	}
+
 }

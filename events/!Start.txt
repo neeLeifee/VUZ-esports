@@ -10,15 +10,18 @@ country_event = {
 		name = VEevents.1.a
 		# war in 1 year
 		news_event = { days = 365 id = stwar.1 }
+		VER = { add_to_variable = { days_till_war_var = 365 } }
 	}
 	option = {
 		name = VEevents.1.b
-		# war in 1.5 years
-		news_event = { days = 550 id = stwar.1 }
+		# war in 2 years
+		news_event = { days = 730 id = stwar.1 }
+		VER = { add_to_variable = { days_till_war_var = 730 } }
 	}
 	option = {
 		name = VEevents.1.c
-		# war in 2 years
-		news_event = { days = 730 id = stwar.1 }
+		# war in 3 years
+		news_event = { days = 1095 id = stwar.1 }
+		VER = { add_to_variable = { days_till_war_var = 1095 } }
 	}
 }

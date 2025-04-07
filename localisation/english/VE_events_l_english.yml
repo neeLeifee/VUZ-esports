@@ -2,8 +2,8 @@
 VEevents.1.t:0 "When war"
 VEevents.1.d:0 "How much time will players have to prepare?"
 VEevents.1.a:0 "War in 1 year"
-VEevents.1.b:0 "War in 1.5 years"
-VEevents.1.c:0 "War in 2 years"
+VEevents.1.b:0 "War in 2 years"
+VEevents.1.c:0 "War in 3 years"
 
 stwar.1.t:0 "War"
 stwar.1.d:0 "War starts now!"

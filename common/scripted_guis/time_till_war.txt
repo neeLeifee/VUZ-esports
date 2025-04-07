@@ -1,0 +1,13 @@
+scripted_gui = {
+
+	days_till_war_showcase = {
+		context_type = player_context
+		window_name = "days_till_war_showcase_container"
+		visible = {
+			VER = {
+				check_variable = { days_till_war_var > 0 }
+			}
+		}
+    }
+
+}

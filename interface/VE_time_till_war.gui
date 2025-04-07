@@ -1,0 +1,23 @@
+guiTypes = {
+
+	containerWindowType = {
+		name = "days_till_war_showcase_container"
+		position = {x=100 y=100}
+		size = { width=1665 height=975 }
+		fade_time = 300
+		fade_type = linear
+		moveable = yes
+		
+
+		instantTextboxType = {
+			name = "Text5_upgrades"
+			position = {x=1825 y=-70}
+			font = "datefont"
+			text = "War starts in: [?VER.days_till_war_var]"
+			maxWidth = 340
+			maxHeight = 50
+			format = left
+		}
+	}
+
+}
