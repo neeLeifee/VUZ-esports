@@ -28,9 +28,9 @@ replace_path="history/general"
 replace_path="map/strategicregions"
 replace_path="map/supplyareas"
 
-version="1.15*"
+version="1.16*"
 tags={
 	"Balance"
 }
 name="[LOCAL] VUZ esports"
-supported_version="1.15.*"
+supported_version="1.16.*"
